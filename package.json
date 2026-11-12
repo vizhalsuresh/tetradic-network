@@ -11,6 +11,7 @@
     "render:legacy": "remotion render src/index.ts CreativeArchitectReel out/creative_architect.mp4",
     "episode:new": "node scripts/new-episode.js",
     "upload:youtube": "python3 scripts/youtube/upload_to_youtube.py",
+    "upload:auth": "python3 scripts/youtube/authenticate.py",
     "upload:check": "python3 scripts/youtube/check_youtube_setup.py",
     "color": "python3 .agents/skills/sanzo-wada-colorist/scripts/query_palette.py",
     "tech": "python3 .agents/skills/channel-cto/scripts/query_tech.py"

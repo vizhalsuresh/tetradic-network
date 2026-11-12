@@ -241,3 +241,9 @@
    - Pushed `main` branch to remote `origin`.
    - Authored automated collaborator setup script `scripts/setup_collaborator.sh`.
    - Delivered Turn 1 AI Onboarding Directive for co-Showrunner Antigravity assistant.
+7. **YouTube Auto-Upload Pipeline (VERIFIED & ACTIVE)**:
+   - Configured OAuth 2.0 Client credentials (`scripts/youtube/client_secret.json`).
+   - Authenticated and verified active channel: **Tetradic Network** (Channel ID: `UC6bk4xVyFo1ykfsE0a6Aeug`).
+   - Permanent token cached in `scripts/youtube/token.pickle` (auto-refreshable, headless).
+   - Diagnostic status: `STATUS: READY FOR AUTOMATED HEADLESS UPLOADS` (`npm run upload:check`).
+   - Automated publishing command verified: `npm run upload:youtube`.
