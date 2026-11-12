@@ -1,0 +1,116 @@
+{
+  "title": "The Three-Body Catastrophe",
+  "total_duration": 224.92,
+  "total_minutes": 3.75,
+  "beat_count": 18,
+  "beats": [
+    {
+      "id": 1,
+      "file": "audio/vo/beat_01.mp3",
+      "duration": 12.43,
+      "caption_text": "NEWTON: 1687"
+    },
+    {
+      "id": 2,
+      "file": "audio/vo/beat_02.mp3",
+      "duration": 9.07,
+      "caption_text": "THE THIRD BODY"
+    },
+    {
+      "id": 3,
+      "file": "audio/vo/beat_03.mp3",
+      "duration": 13.25,
+      "caption_text": "2 BODIES: SOLVED"
+    },
+    {
+      "id": 4,
+      "file": "audio/vo/beat_04.mp3",
+      "duration": 12.98,
+      "caption_text": "NO GENERAL SOLUTION"
+    },
+    {
+      "id": 5,
+      "file": "audio/vo/beat_05.mp3",
+      "duration": 11.64,
+      "caption_text": "KING'S PRIZE: 1887"
+    },
+    {
+      "id": 6,
+      "file": "audio/vo/beat_06.mp3",
+      "duration": 13.61,
+      "caption_text": "POINCAR\u00c9'S HORROR"
+    },
+    {
+      "id": 7,
+      "file": "audio/vo/beat_07.mp3",
+      "duration": 15.67,
+      "caption_text": "DETERMINISTIC CHAOS"
+    },
+    {
+      "id": 8,
+      "file": "audio/vo/beat_08.mp3",
+      "duration": 10.03,
+      "caption_text": "1 ATOM = CATASTROPHE"
+    },
+    {
+      "id": 9,
+      "file": "audio/vo/beat_09.mp3",
+      "duration": 13.75,
+      "caption_text": "NUMERICAL STEPPING"
+    },
+    {
+      "id": 10,
+      "file": "audio/vo/beat_10.mp3",
+      "duration": 13.27,
+      "caption_text": "GRAVITATIONAL SLINGSHOT"
+    },
+    {
+      "id": 11,
+      "file": "audio/vo/beat_11.mp3",
+      "duration": 11.76,
+      "caption_text": "EJECTION: 1 SURVIVOR"
+    },
+    {
+      "id": 12,
+      "file": "audio/vo/beat_12.mp3",
+      "duration": 12.34,
+      "caption_text": "8 PLANETS // N-BODIES"
+    },
+    {
+      "id": 13,
+      "file": "audio/vo/beat_13.mp3",
+      "duration": 12.36,
+      "caption_text": "5 MILLION YEAR LIMIT"
+    },
+    {
+      "id": 14,
+      "file": "audio/vo/beat_14.mp3",
+      "duration": 14.74,
+      "caption_text": "MERCURY-JUPITER LOCK"
+    },
+    {
+      "id": 15,
+      "file": "audio/vo/beat_15.mp3",
+      "duration": 10.99,
+      "caption_text": "1% CHANCE OF RUPTURE"
+    },
+    {
+      "id": 16,
+      "file": "audio/vo/beat_16.mp3",
+      "duration": 12.14,
+      "caption_text": "INNER SYSTEM COLLAPSE"
+    },
+    {
+      "id": 17,
+      "file": "audio/vo/beat_17.mp3",
+      "duration": 11.16,
+      "caption_text": "THE ILLUSION OF CLOCKWORK"
+    },
+    {
+      "id": 18,
+      "file": "audio/vo/beat_18.mp3",
+      "duration": 13.73,
+      "caption_text": "BORROWED TIME"
+    }
+  ]
+}

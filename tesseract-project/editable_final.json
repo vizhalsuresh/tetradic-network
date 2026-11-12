@@ -1,0 +1,256 @@
+{
+  "$schema": "https://jerboa.dev/schemas/fx-composition/editable/v1/document.schema.json",
+  "formatVersion": 1,
+  "dimensions": {
+    "width": 1080,
+    "height": 1920
+  },
+  "duration": 35.0,
+  "composition": {
+    "id": "main",
+    "layers": [
+      {
+        "type": "Image",
+        "id": 30,
+        "name": "Outro Image",
+        "activeRange": {
+          "start": 25000,
+          "duration": 10000
+        },
+        "source": {
+          "assetId": "pose-1",
+          "fit": "contain"
+        },
+        "transform": {
+          "anchorPoint": [
+            0.0,
+            0.0
+          ],
+          "position": [
+            0,
+            400
+          ],
+          "scale": [
+            100,
+            100
+          ],
+          "rotation": 0.0,
+          "opacity": 100.0
+        }
+      },
+      {
+        "type": "Image",
+        "id": 18,
+        "name": "Power Image 18",
+        "activeRange": {
+          "start": 21000,
+          "duration": 4000
+        },
+        "source": {
+          "assetId": "pose-0",
+          "fit": "contain"
+        },
+        "transform": {
+          "anchorPoint": [
+            0.0,
+            0.0
+          ],
+          "position": [
+            0,
+            400
+          ],
+          "scale": [
+            100,
+            100
+          ],
+          "rotation": 0.0,
+          "opacity": 100.0
+        }
+      },
+      {
+        "type": "Image",
+        "id": 16,
+        "name": "Power Image 16",
+        "activeRange": {
+          "start": 17000,
+          "duration": 4000
+        },
+        "source": {
+          "assetId": "pose-4",
+          "fit": "contain"
+        },
+        "transform": {
+          "anchorPoint": [
+            0.0,
+            0.0
+          ],
+          "position": [
+            0,
+            400
+          ],
+          "scale": [
+            100,
+            100
+          ],
+          "rotation": 0.0,
+          "opacity": 100.0
+        }
+      },
+      {
+        "type": "Image",
+        "id": 14,
+        "name": "Power Image 14",
+        "activeRange": {
+          "start": 13000,
+          "duration": 4000
+        },
+        "source": {
+          "assetId": "pose-3",
+          "fit": "contain"
+        },
+        "transform": {
+          "anchorPoint": [
+            0.0,
+            0.0
+          ],
+          "position": [
+            0,
+            400
+          ],
+          "scale": [
+            100,
+            100
+          ],
+          "rotation": 0.0,
+          "opacity": 100.0
+        }
+      },
+      {
+        "type": "Image",
+        "id": 12,
+        "name": "Power Image 12",
+        "activeRange": {
+          "start": 9000,
+          "duration": 4000
+        },
+        "source": {
+          "assetId": "pose-2",
+          "fit": "contain"
+        },
+        "transform": {
+          "anchorPoint": [
+            0.0,
+            0.0
+          ],
+          "position": [
+            0,
+            400
+          ],
+          "scale": [
+            100,
+            100
+          ],
+          "rotation": 0.0,
+          "opacity": 100.0
+        }
+      },
+      {
+        "type": "Image",
+        "id": 10,
+        "name": "Power Image 10",
+        "activeRange": {
+          "start": 5000,
+          "duration": 4000
+        },
+        "source": {
+          "assetId": "pose-1",
+          "fit": "contain"
+        },
+        "transform": {
+          "anchorPoint": [
+            0.0,
+            0.0
+          ],
+          "position": [
+            0,
+            400
+          ],
+          "scale": [
+            100,
+            100
+          ],
+          "rotation": 0.0,
+          "opacity": 100.0
+        }
+      },
+      {
+        "type": "Image",
+        "id": 1,
+        "name": "Pose 0",
+        "activeRange": {
+          "start": 0,
+          "duration": 5000
+        },
+        "source": {
+          "assetId": "pose-0",
+          "fit": "contain"
+        },
+        "transform": {
+          "anchorPoint": [
+            0.0,
+            0.0
+          ],
+          "position": [
+            0,
+            400
+          ],
+          "scale": [
+            100,
+            100
+          ],
+          "rotation": 0.0,
+          "opacity": 100.0
+        }
+      },
+      {
+        "type": "Rect",
+        "id": 100,
+        "name": "Background",
+        "activeRange": {
+          "start": 0,
+          "duration": 35000
+        },
+        "rect": {
+          "fillColor": [
+            0.05,
+            0.05,
+            0.05,
+            1.0
+          ],
+          "size": [
+            1080.0,
+            1920.0
+          ],
+          "fillEnabled": true
+        },
+        "transform": {
+          "anchorPoint": [
+            0.0,
+            0.0
+          ],
+          "position": [
+            0.0,
+            0.0
+          ],
+          "scale": [
+            100.0,
+            100.0
+          ],
+          "rotation": 0.0,
+          "opacity": 100.0
+        }
+      }
+    ],
+    "name": "Main"
+  }
+}

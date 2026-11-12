@@ -1,0 +1,134 @@
+{
+  "title": "The Deep Ocean Internet Backbone",
+  "topic": "The 1.4 million kilometers of subsea fiber-optic cables carrying 99% of global internet traffic",
+  "style_seed": "editorial technical collage, blueprint cyan grid backgrounds, archival cable ships with white sticker borders, technical fiber cross-sections, washi tape pins, copper and laser gold telemetry callouts",
+  "accent_color": "#00E5FF",
+  "beats": [
+    {
+      "id": 1,
+      "narration": "Under four miles of pitch-black ocean water, resting on volcanic trenches, lies a glass thread narrower than a human hair. Right now, it is carrying your bank transactions, video streams, and secret military transmissions.",
+      "visual": "Cross-section of the abyssal ocean floor with a single luminous glass strand resting on volcanic rock, cut-out oceanic depth markers, cyan blueprint grid background, small paper label reading 4 MILES DEPTH pinned with washi tape",
+      "caption_text": "99% OF THE INTERNET",
+      "motion": "slow push-in on the glowing glass strand, subtle underwater particle drift, background depth grid shifts slightly"
+    },
+    {
+      "id": 2,
+      "narration": "Most people assume the cloud lives in outer space, beamed down from satellites. To understand why that is almost entirely wrong, you have to look at the seafloor.",
+      "visual": "Paper cutout satellite floating in upper atmosphere crossed out with a bold red sticker X, camera pans down through ocean strata layers to reveal a tangled seabed cable network, halftone ocean waves",
+      "caption_text": null,
+      "motion": "downward tilt from sky satellite to ocean seabed, cutouts drift with gentle parallax"
+    },
+    {
+      "id": 3,
+      "narration": "Ninety-nine percent of all intercontinental internet traffic does not travel through the sky. It travels through one point four million kilometers of armored cables coiled across the ocean floor.",
+      "visual": "World map rendered as aged cream paper collage on blueprint cyan, illuminated network of subsea cable lines glowing in electric cyan across the Atlantic and Pacific, archival paper pins at major landing stations",
+      "caption_text": "1.4 MILLION KM",
+      "motion": "slow push-in on the global cable web, cyan cable lines gently pulse with data light"
+    },
+    {
+      "id": 4,
+      "narration": "That is enough glass wire to circle the Earth thirty-five times. Every single second, these submerged conduits pulse with hundreds of terabits of light, linking continents at two-thirds the speed of light.",
+      "visual": "Globe surrounded by thirty-five concentric circular wire loops in halftone paper cutout style, speed readout reading 200,000 KM/S in bold condensed type, electric cyan light pulses traveling along the loops",
+      "caption_text": "35X AROUND EARTH",
+      "motion": "subtle rotation of wire loops around the flat paper globe, light pulses streak along trajectories"
+    },
+    {
+      "id": 5,
+      "narration": "At the dead center of every cable sits the payload: strands of ultra-pure silica glass. Light bounces down these cores through total internal reflection, reflecting millions of times without escaping.",
+      "visual": "Exploded macro diagram of an optical fiber core with white sticker border, laser beam bouncing between glass cladding boundaries in a zigzag path, mathematical angle theta callout pinned with tape",
+      "caption_text": null,
+      "motion": "laser beam animates along the fiber core zigzag, diagram elements settle into place"
+    },
+    {
+      "id": 6,
+      "narration": "But pure glass is fragile. So engineers wrap it in petroleum jelly, encase it in a welded copper tube, and sheath it in high-tensile steel wire, aluminum, and heavy polyethylene plastic.",
+      "visual": "Concentric exploded cylinder diagram showing the eight protective layers of a subsea cable: silica core, jelly, copper sheath, steel armor, black plastic jacket, each labeled with technical leader lines",
+      "caption_text": "8 ARMOR LAYERS",
+      "motion": "concentric cylinder layers slide outward from center in smooth mechanical sequence"
+    },
+    {
+      "id": 7,
+      "narration": "Laying these cables takes months. Massive specialized ships slowly spool out thousands of tons of wire into the abyss, using GPS thrusters to fight ten-foot waves while staying on course.",
+      "visual": "Archival cable-laying ship with white cutout sticker border riding on halftone paper waves, giant spool in the ship hold slowly uncoiling cyan wire into the deep ocean behind the stern",
+      "caption_text": null,
+      "motion": "ship rocks gently on paper waves, cable steadily unspools from stern into the dark depths"
+    },
+    {
+      "id": 8,
+      "narration": "In shallow water near coasts, an eighty-ton robotic underwater plow slices open the seabed, burying the cable three meters deep to protect it from commercial fishing nets and dragging ship anchors.",
+      "visual": "Robotic heavy seabed plow trenching into cut-paper sediment, cable sinking into a three-meter furrow, silhouette of a fishing boat with dragging trawler net in the background upper panel",
+      "caption_text": "3 METERS BURIED",
+      "motion": "robotic plow crawls rightward, sediment particles rise and settle slowly behind it"
+    },
+    {
+      "id": 9,
+      "narration": "In the deep ocean, the cable simply lies bare on the abyssal plain, enduring freezing two-degree water and crushing hydrostatic pressure exceeding eight hundred atmospheres.",
+      "visual": "Subsea cable resting quietly on oceanic abyssal silt next to deep-sea hydrothermal vent and bioluminescent creature cutout, pressure gauge reading 800 ATM with warning cyan glow",
+      "caption_text": "800 ATMOSPHERES",
+      "motion": "slow drift across the abyssal plain, bioluminescent creature floats gently upward"
+    },
+    {
+      "id": 10,
+      "narration": "But light fades over distance. Every eighty kilometers, engineers splice in a beryllium-copper repeater cylinder containing erbium-doped optical fiber, which uses laser energy to re-boost the fading signal.",
+      "visual": "Torpedo-shaped optical repeater housing sliced open in technical blueprint style, showing optical amplifier coils glowing laser gold, distance marker reading 80 KM pinned with washi tape",
+      "caption_text": "REPEATER: 80 KM",
+      "motion": "laser pulse enters repeater dim and emerges brilliant electric cyan, lens flare sheen"
+    },
+    {
+      "id": 11,
+      "narration": "To power those repeaters across an entire ocean, a single copper conductor runs the entire length of the cable, carrying ten thousand volts of direct current straight into the abyss.",
+      "visual": "High-voltage electrical transmission diagram across transatlantic cut-paper map, coastal terminal station feeding 10,000 VOLTS into the submerged copper backbone, electric arcing motifs",
+      "caption_text": "10,000 VOLTS DC",
+      "motion": "voltage pulses travel left to right across the cable line, station dials illuminate"
+    },
+    {
+      "id": 12,
+      "narration": "Over five hundred cables form this invisible web. Yet this entire global matrix funnels through razor-thin choke points: the Strait of Malacca, the Suez Canal, and the Luzon Strait.",
+      "visual": "Three zoomed-in nautical map cutout panels of the Suez Canal, Strait of Malacca, and Luzon Strait, dense bundles of subsea cables squeezed through narrow shipping channels with warning stripes",
+      "caption_text": "3 CHOKE POINTS",
+      "motion": "slow zoom into the three narrow straits, cable bundles glow with high traffic density"
+    },
+    {
+      "id": 13,
+      "narration": "If one cable snaps, autonomous routing protocols instantly divert data packets through thousands of alternate miles of seafloor wire before your screen even registers a microsecond stutter.",
+      "visual": "Global mesh routing diagram, an severed cable flashing red while green reroute arrows instantly detour data through alternative paths across South Africa and the Pacific",
+      "caption_text": null,
+      "motion": "red fault flash, alternative pathways illuminate in rapid sequence, packets flow around break"
+    },
+    {
+      "id": 14,
+      "narration": "But all of this staggering planetary infrastructure hangs on one terrifying vulnerability: it is constantly breaking. Around two hundred times every year, an undersea cable is violently severed.",
+      "visual": "Dramatic paper collage of a severed subsea cable frayed on the ocean floor, sparking data fibers, calendar counter ticking rapidly up to 200 FAULTS PER YEAR in bold editorial type",
+      "caption_text": "200 CUTS A YEAR",
+      "motion": "counter numbers roll rapidly from 0 to 200, severed fiber ends drift in underwater current"
+    },
+    {
+      "id": 15,
+      "narration": "Most cuts are accidents: dragged cargo anchors or undersea landslides. But in contested maritime corridors, intentional sabotage by spy submarines dragging covert cutting hooks is no longer science fiction.",
+      "visual": "Dual-panel split collage: left side shows massive ship anchor snagging cable on continental shelf; right side shows dark silhouette of military submarine near deep-water communication lines",
+      "caption_text": null,
+      "motion": "slow split-screen lateral slide, submarine silhouette drifts silently across seabed"
+    },
+    {
+      "id": 16,
+      "narration": "When a cable snaps at depth, only sixty specialized repair ships exist worldwide. It takes weeks to locate the cut with acoustic sonar, grapple both severed ends from the dark, and splice them by hand.",
+      "visual": "Archival cable repair ship lowering a mechanical grapnel hook into pitch-black waters, sonar ping circles expanding, technician hands in cleanroom splicing microscopic fiber strands",
+      "caption_text": "ONLY 60 SHIPS",
+      "motion": "sonar pings pulse outward, grapnel hook slowly descends through ocean strata"
+    },
+    {
+      "id": 17,
+      "narration": "We like to imagine the modern internet as an ethereal, weightless cloud floating above the world. In reality, it is a physical, heavy machine bolted to the wet rock of our planet.",
+      "visual": "A fluffy digital paper cloud cutout evaporates to reveal the massive metallic reality beneath: thousands of miles of heavy steel cables anchored into oceanic bedrock, cyan blueprint background",
+      "caption_text": null,
+      "motion": "paper cloud dissolves away, camera pushes into the solid, bolted metallic seabed cable"
+    },
+    {
+      "id": 18,
+      "narration": "Civilization does not float in space. Our entire digital existence—our memories, economies, and democracies—rests silently on a few millimeters of glass, ticking in the crushing dark of the abyss.",
+      "visual": "Epic wide composite: human city skyline silhouettes floating above, connected by glowing umbilical glass lines running down into the vast oceanic abyss, single glowing cyan strand in center",
+      "caption_text": "THE GLASS BACKBONE",
+      "motion": "slow, contemplative 2D pull-out from the single glass thread to the entire planetary network"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+[{"command": "document.open", "params": {"path": "out/broadcast/tetradic_trace_template.vectorcraft"}}, {"command": "select.all"}, {"command": "imageTrace.makeAndExpand", "params": {"params": {"mode": "blackAndWhite", "threshold": 128, "ignoreWhite": true}}}, {"command": "file.saveAs", "params": {"path": "out/broadcast/autotraced_vectorcraft.vectorcraft"}}]

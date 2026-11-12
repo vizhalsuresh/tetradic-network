@@ -1,0 +1,134 @@
+{
+  "$schema": "https://jerboa.dev/schemas/fx-composition/editable/v1/document.schema.json",
+  "formatVersion": 1,
+  "dimensions": {
+    "width": 1080,
+    "height": 1920
+  },
+  "duration": 3.0,
+  "composition": {
+    "id": "main",
+    "layers": [
+      {
+        "activeRange": {
+          "duration": 3000,
+          "start": 0
+        },
+        "blendMode": "normal",
+        "id": 2,
+        "name": "Title",
+        "sourceText": {
+          "allCaps": false,
+          "applyFill": true,
+          "applyStroke": false,
+          "baselineShift": 0.0,
+          "boxPosition": [
+            0.0,
+            0.0
+          ],
+          "boxSize": [
+            900.0,
+            300.0
+          ],
+          "boxText": true,
+          "fillColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fontFamily": "FreeSans",
+          "fontSize": 120.0,
+          "fontStyle": "Bold",
+          "justification": "center",
+          "strokeOverFill": false,
+          "strokeWidth": 0.0,
+          "text": "CREATIVE\nARCHITECT",
+          "tracking": 0.0
+        },
+        "transform": {
+          "anchorPoint": [
+            0.0,
+            0.0
+          ],
+          "opacity": 100.0,
+          "orientation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "position": [
+            90.0,
+            800.0
+          ],
+          "rotation": 0.0,
+          "rotationX": 0.0,
+          "rotationY": 0.0,
+          "scale": [
+            100.0,
+            100.0
+          ],
+          "skew": 0.0,
+          "skewAxis": 0.0
+        },
+        "type": "Text"
+      },
+      {
+        "activeRange": {
+          "duration": 3000,
+          "start": 0
+        },
+        "blendMode": "normal",
+        "id": 1,
+        "name": "Background",
+        "rect": {
+          "fillColor": [
+            0.05,
+            0.05,
+            0.05,
+            1.0
+          ],
+          "fillEnabled": true,
+          "position": [
+            0.0,
+            0.0
+          ],
+          "roundness": 0.0,
+          "size": [
+            1080.0,
+            1920.0
+          ],
+          "strokeEnabled": false,
+          "strokeWidth": 0.0
+        },
+        "transform": {
+          "anchorPoint": [
+            0.0,
+            0.0
+          ],
+          "opacity": 100.0,
+          "orientation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "position": [
+            0.0,
+            0.0
+          ],
+          "rotation": 0.0,
+          "rotationX": 0.0,
+          "rotationY": 0.0,
+          "scale": [
+            100.0,
+            100.0
+          ],
+          "skew": 0.0,
+          "skewAxis": 0.0
+        },
+        "type": "Rect"
+      }
+    ],
+    "name": "Main"
+  }
+}

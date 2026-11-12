@@ -1,0 +1,6281 @@
+[
+  {
+    "id": 0,
+    "name": "Hermosa Pink",
+    "hex": "#f9c1ce",
+    "rgb": [
+      249,
+      193,
+      206
+    ],
+    "cmyk": [
+      0,
+      30,
+      6,
+      0
+    ],
+    "lab": [
+      83.43,
+      22.14,
+      1.64
+    ],
+    "relative_luminance": 0.6274,
+    "tone": "Mid Light",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      346.1,
+      0.225,
+      0.976
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      176,
+      227,
+      273
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Corinthian Pink",
+    "hex": "#f8b6ba",
+    "rgb": [
+      248,
+      182,
+      186
+    ],
+    "cmyk": [
+      0,
+      35,
+      15,
+      0
+    ],
+    "lab": [
+      80.35,
+      25.37,
+      7.88
+    ],
+    "relative_luminance": 0.5696,
+    "tone": "Mid Light",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      356.4,
+      0.266,
+      0.973
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      27,
+      43,
+      87,
+      97,
+      128,
+      169,
+      174,
+      206,
+      246,
+      254,
+      264,
+      342
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Cameo Pink",
+    "hex": "#e0b3b6",
+    "rgb": [
+      224,
+      179,
+      182
+    ],
+    "cmyk": [
+      10,
+      32,
+      19,
+      0
+    ],
+    "lab": [
+      77.22,
+      17.2,
+      4.95
+    ],
+    "relative_luminance": 0.5146,
+    "tone": "Mid Light",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      356.0,
+      0.201,
+      0.878
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      101,
+      105,
+      116,
+      120,
+      165,
+      231
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Fawn",
+    "hex": "#d1b0a7",
+    "rgb": [
+      209,
+      176,
+      167
+    ],
+    "cmyk": [
+      18,
+      31,
+      30,
+      0
+    ],
+    "lab": [
+      74.49,
+      11.19,
+      9.39
+    ],
+    "relative_luminance": 0.474,
+    "tone": "Mid Light",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      12.9,
+      0.201,
+      0.82
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      18,
+      125,
+      308
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Light Brown Drab",
+    "hex": "#b59392",
+    "rgb": [
+      181,
+      147,
+      146
+    ],
+    "cmyk": [
+      8,
+      30,
+      20,
+      25
+    ],
+    "lab": [
+      64.12,
+      13.02,
+      5.34
+    ],
+    "relative_luminance": 0.3277,
+    "tone": "Mid Dark",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      1.7,
+      0.193,
+      0.71
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      35,
+      68,
+      185,
+      191,
+      223,
+      239,
+      244,
+      268,
+      285,
+      321
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Coral Red",
+    "hex": "#f58e84",
+    "rgb": [
+      245,
+      142,
+      132
+    ],
+    "cmyk": [
+      0,
+      55,
+      40,
+      0
+    ],
+    "lab": [
+      70.28,
+      39.29,
+      23.19
+    ],
+    "relative_luminance": 0.4042,
+    "tone": "Mid Light",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      5.3,
+      0.461,
+      0.961
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      92,
+      123,
+      320,
+      332
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Fresh Color",
+    "hex": "#f6917e",
+    "rgb": [
+      246,
+      145,
+      126
+    ],
+    "cmyk": [
+      0,
+      53,
+      45,
+      0
+    ],
+    "lab": [
+      70.96,
+      37.48,
+      27.3
+    ],
+    "relative_luminance": 0.4135,
+    "tone": "Mid Light",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      9.5,
+      0.488,
+      0.965
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      240
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Grenadine Pink",
+    "hex": "#f48067",
+    "rgb": [
+      244,
+      128,
+      103
+    ],
+    "cmyk": [
+      0,
+      62,
+      58,
+      0
+    ],
+    "lab": [
+      66.89,
+      43.83,
+      34.7
+    ],
+    "relative_luminance": 0.3565,
+    "tone": "Mid Light",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      10.6,
+      0.578,
+      0.957
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      6,
+      21,
+      112,
+      166,
+      193,
+      201,
+      230,
+      300,
+      315,
+      341
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Eosine Pink",
+    "hex": "#f37f94",
+    "rgb": [
+      243,
+      127,
+      148
+    ],
+    "cmyk": [
+      0,
+      63,
+      23,
+      0
+    ],
+    "lab": [
+      67.25,
+      46.68,
+      10.3
+    ],
+    "relative_luminance": 0.3637,
+    "tone": "Mid Light",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      349.1,
+      0.477,
+      0.953
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      34,
+      59,
+      90,
+      108,
+      134,
+      153,
+      197,
+      242,
+      248,
+      276,
+      287,
+      314,
+      327,
+      336
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Spinel Red",
+    "hex": "#f27291",
+    "rgb": [
+      242,
+      114,
+      145
+    ],
+    "cmyk": [
+      0,
+      70,
+      21,
+      0
+    ],
+    "lab": [
+      64.53,
+      52.19,
+      8.29
+    ],
+    "relative_luminance": 0.3296,
+    "tone": "Mid Dark",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      345.5,
+      0.529,
+      0.949
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      14,
+      147,
+      165,
+      184,
+      195,
+      224,
+      277
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Old Rose",
+    "hex": "#d46d7a",
+    "rgb": [
+      212,
+      109,
+      122
+    ],
+    "cmyk": [
+      15,
+      70,
+      40,
+      0
+    ],
+    "lab": [
+      58.77,
+      42.13,
+      12.31
+    ],
+    "relative_luminance": 0.2634,
+    "tone": "Mid Dark",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      352.4,
+      0.486,
+      0.831
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      55,
+      162,
+      260,
+      265
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Eugenia Red | A",
+    "hex": "#e2625e",
+    "rgb": [
+      226,
+      98,
+      94
+    ],
+    "cmyk": [
+      7,
+      76,
+      60,
+      0
+    ],
+    "lab": [
+      58.37,
+      50.75,
+      28.54
+    ],
+    "relative_luminance": 0.2571,
+    "tone": "Mid Dark",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      1.8,
+      0.584,
+      0.886
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      284
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Eugenia Red | B",
+    "hex": "#da525d",
+    "rgb": [
+      218,
+      82,
+      93
+    ],
+    "cmyk": [
+      0,
+      80,
+      50,
+      10
+    ],
+    "lab": [
+      54.27,
+      54.7,
+      23.66
+    ],
+    "relative_luminance": 0.2173,
+    "tone": "Mid Dark",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      355.1,
+      0.624,
+      0.855
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      17,
+      77,
+      252,
+      262,
+      270,
+      280,
+      282,
+      325
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Raw Sienna",
+    "hex": "#bb7125",
+    "rgb": [
+      187,
+      113,
+      37
+    ],
+    "cmyk": [
+      18,
+      58,
+      100,
+      12
+    ],
+    "lab": [
+      55.06,
+      25.55,
+      52.17
+    ],
+    "relative_luminance": 0.2251,
+    "tone": "Mid Dark",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      30.4,
+      0.802,
+      0.733
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      3,
+      13,
+      33,
+      70,
+      86,
+      130,
+      131,
+      182,
+      243,
+      247,
+      252,
+      255,
+      268,
+      269,
+      279,
+      293,
+      298,
+      319,
+      327
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Vinaceous Tawny",
+    "hex": "#c56127",
+    "rgb": [
+      197,
+      97,
+      39
+    ],
+    "cmyk": [
+      17,
+      72,
+      100,
+      6
+    ],
+    "lab": [
+      53.23,
+      38.18,
+      50.19
+    ],
+    "relative_luminance": 0.2057,
+    "tone": "Mid Dark",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      22.0,
+      0.802,
+      0.773
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      40,
+      85,
+      244
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Jasper Red",
+    "hex": "#eb5324",
+    "rgb": [
+      235,
+      83,
+      36
+    ],
+    "cmyk": [
+      2,
+      83,
+      100,
+      0
+    ],
+    "lab": [
+      56.81,
+      58.41,
+      57.63
+    ],
+    "relative_luminance": 0.2398,
+    "tone": "Mid Dark",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      14.2,
+      0.847,
+      0.922
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      155,
+      194,
+      216,
+      219
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Spectrum Red",
+    "hex": "#e31f26",
+    "rgb": [
+      227,
+      31,
+      38
+    ],
+    "cmyk": [
+      5,
+      100,
+      100,
+      0
+    ],
+    "lab": [
+      49.61,
+      70.93,
+      50.08
+    ],
+    "relative_luminance": 0.1745,
+    "tone": "Mid Dark",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      357.9,
+      0.863,
+      0.89
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      257,
+      266,
+      301,
+      322
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Red Orange",
+    "hex": "#dd4027",
+    "rgb": [
+      221,
+      64,
+      39
+    ],
+    "cmyk": [
+      9,
+      90,
+      100,
+      0
+    ],
+    "lab": [
+      51.83,
+      60.64,
+      50.88
+    ],
+    "relative_luminance": 0.1919,
+    "tone": "Mid Dark",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      8.2,
+      0.824,
+      0.867
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      31,
+      164,
+      179,
+      241,
+      264
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Etruscan Red",
+    "hex": "#c55347",
+    "rgb": [
+      197,
+      83,
+      71
+    ],
+    "cmyk": [
+      16,
+      80,
+      74,
+      6
+    ],
+    "lab": [
+      50.75,
+      45.88,
+      31.05
+    ],
+    "relative_luminance": 0.1851,
+    "tone": "Mid Dark",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      5.7,
+      0.64,
+      0.773
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      25,
+      47,
+      97,
+      137,
+      152,
+      185,
+      275
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Burnt Sienna",
+    "hex": "#ae5224",
+    "rgb": [
+      174,
+      82,
+      36
+    ],
+    "cmyk": [
+      22,
+      76,
+      100,
+      15
+    ],
+    "lab": [
+      46.44,
+      36.23,
+      43.79
+    ],
+    "relative_luminance": 0.1516,
+    "tone": "Mid Dark",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      20.0,
+      0.793,
+      0.682
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      198,
+      242,
+      263,
+      285,
+      286,
+      297,
+      312,
+      333,
+      343
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Ochre Red",
+    "hex": "#ab544d",
+    "rgb": [
+      171,
+      84,
+      77
+    ],
+    "cmyk": [
+      18,
+      73,
+      63,
+      20
+    ],
+    "lab": [
+      46.82,
+      35.74,
+      21.85
+    ],
+    "relative_luminance": 0.1553,
+    "tone": "Mid Dark",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      4.5,
+      0.55,
+      0.671
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      199,
+      283
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Scarlet",
+    "hex": "#cb2f43",
+    "rgb": [
+      203,
+      47,
+      67
+    ],
+    "cmyk": [
+      10,
+      95,
+      72,
+      7
+    ],
+    "lab": [
+      46.55,
+      61.53,
+      28.9
+    ],
+    "relative_luminance": 0.1513,
+    "tone": "Mid Dark",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      352.3,
+      0.768,
+      0.796
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      136,
+      308,
+      332
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Carmine",
+    "hex": "#cc1236",
+    "rgb": [
+      204,
+      18,
+      54
+    ],
+    "cmyk": [
+      0,
+      100,
+      75,
+      16
+    ],
+    "lab": [
+      44.29,
+      67.19,
+      33.71
+    ],
+    "relative_luminance": 0.1354,
+    "tone": "Deep Dark",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      348.4,
+      0.912,
+      0.8
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      39,
+      117,
+      122,
+      154,
+      225,
+      232,
+      307,
+      313
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Indian Lake",
+    "hex": "#c53c69",
+    "rgb": [
+      197,
+      60,
+      105
+    ],
+    "cmyk": [
+      12,
+      89,
+      35,
+      9
+    ],
+    "lab": [
+      47.54,
+      57.21,
+      6.68
+    ],
+    "relative_luminance": 0.1612,
+    "tone": "Mid Dark",
+    "hue_category": "Magenta / Rose / Pink",
+    "warmth": "Warm",
+    "hsv": [
+      340.3,
+      0.695,
+      0.773
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      299,
+      331
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Rosolanc Purple",
+    "hex": "#b73f74",
+    "rgb": [
+      183,
+      63,
+      116
+    ],
+    "cmyk": [
+      30,
+      90,
+      33,
+      0
+    ],
+    "lab": [
+      45.94,
+      52.37,
+      -3.16
+    ],
+    "relative_luminance": 0.1488,
+    "tone": "Deep Dark",
+    "hue_category": "Magenta / Rose / Pink",
+    "warmth": "Warm",
+    "hsv": [
+      333.5,
+      0.656,
+      0.718
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      48,
+      144,
+      170,
+      204,
+      277,
+      346
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Pomegranite Purple",
+    "hex": "#b71f57",
+    "rgb": [
+      183,
+      31,
+      87
+    ],
+    "cmyk": [
+      23,
+      100,
+      50,
+      6
+    ],
+    "lab": [
+      41.43,
+      60.96,
+      8.4
+    ],
+    "relative_luminance": 0.1174,
+    "tone": "Deep Dark",
+    "hue_category": "Magenta / Rose / Pink",
+    "warmth": "Warm",
+    "hsv": [
+      337.9,
+      0.831,
+      0.718
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      220,
+      271
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Hydrangea Red",
+    "hex": "#a94151",
+    "rgb": [
+      169,
+      65,
+      81
+    ],
+    "cmyk": [
+      38,
+      90,
+      70,
+      0
+    ],
+    "lab": [
+      43.07,
+      44.35,
+      14.18
+    ],
+    "relative_luminance": 0.1281,
+    "tone": "Deep Dark",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      350.8,
+      0.615,
+      0.663
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      142
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Brick Red",
+    "hex": "#a84222",
+    "rgb": [
+      168,
+      66,
+      34
+    ],
+    "cmyk": [
+      22,
+      84,
+      100,
+      18
+    ],
+    "lab": [
+      42.46,
+      41.51,
+      40.69
+    ],
+    "relative_luminance": 0.1234,
+    "tone": "Deep Dark",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      14.3,
+      0.798,
+      0.659
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      37,
+      108,
+      246,
+      322,
+      328
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Carmine Red",
+    "hex": "#a62c37",
+    "rgb": [
+      166,
+      44,
+      55
+    ],
+    "cmyk": [
+      25,
+      95,
+      80,
+      16
+    ],
+    "lab": [
+      38.71,
+      50.23,
+      24.69
+    ],
+    "relative_luminance": 0.1018,
+    "tone": "Deep Dark",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      354.6,
+      0.735,
+      0.651
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      35,
+      51,
+      104,
+      130,
+      181,
+      200,
+      221,
+      228,
+      233,
+      237,
+      245,
+      338
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Pompeian Red",
+    "hex": "#ab2439",
+    "rgb": [
+      171,
+      36,
+      57
+    ],
+    "cmyk": [
+      18,
+      97,
+      74,
+      19
+    ],
+    "lab": [
+      38.86,
+      54.81,
+      23.84
+    ],
+    "relative_luminance": 0.1022,
+    "tone": "Deep Dark",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      350.7,
+      0.789,
+      0.671
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      30,
+      71,
+      120,
+      212,
+      311,
+      324
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Red",
+    "hex": "#a72144",
+    "rgb": [
+      167,
+      33,
+      68
+    ],
+    "cmyk": [
+      30,
+      100,
+      70,
+      10
+    ],
+    "lab": [
+      37.87,
+      54.59,
+      15.37
+    ],
+    "relative_luminance": 0.0972,
+    "tone": "Deep Dark",
+    "hue_category": "Magenta / Rose / Pink",
+    "warmth": "Warm",
+    "hsv": [
+      344.3,
+      0.802,
+      0.655
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      251,
+      261
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Brown",
+    "hex": "#7c4226",
+    "rgb": [
+      124,
+      66,
+      38
+    ],
+    "cmyk": [
+      35,
+      74,
+      90,
+      35
+    ],
+    "lab": [
+      35.07,
+      23.47,
+      28.57
+    ],
+    "relative_luminance": 0.0832,
+    "tone": "Deep Dark",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      19.5,
+      0.694,
+      0.486
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      110,
+      121,
+      145,
+      161
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Hay's Russet",
+    "hex": "#793327",
+    "rgb": [
+      121,
+      51,
+      39
+    ],
+    "cmyk": [
+      37,
+      85,
+      87,
+      35
+    ],
+    "lab": [
+      31.24,
+      30.66,
+      23.51
+    ],
+    "relative_luminance": 0.0658,
+    "tone": "Deep Dark",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      8.8,
+      0.678,
+      0.475
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      58,
+      82,
+      95,
+      152,
+      186,
+      231,
+      249,
+      304,
+      314,
+      336,
+      345
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Vandyke Red",
+    "hex": "#82241f",
+    "rgb": [
+      130,
+      36,
+      31
+    ],
+    "cmyk": [
+      32,
+      95,
+      95,
+      33
+    ],
+    "lab": [
+      30.16,
+      40.6,
+      27.61
+    ],
+    "relative_luminance": 0.0611,
+    "tone": "Deep Dark",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      3.0,
+      0.762,
+      0.51
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      16,
+      133,
+      147,
+      316,
+      335
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Pansy Purple",
+    "hex": "#7d133a",
+    "rgb": [
+      125,
+      19,
+      58
+    ],
+    "cmyk": [
+      34,
+      100,
+      60,
+      34
+    ],
+    "lab": [
+      27.61,
+      45.92,
+      6.09
+    ],
+    "relative_luminance": 0.0513,
+    "tone": "Deep Dark",
+    "hue_category": "Magenta / Rose / Pink",
+    "warmth": "Warm",
+    "hsv": [
+      337.9,
+      0.848,
+      0.49
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      157,
+      273
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Pale Burnt Lake",
+    "hex": "#802626",
+    "rgb": [
+      128,
+      38,
+      38
+    ],
+    "cmyk": [
+      25,
+      90,
+      80,
+      40
+    ],
+    "lab": [
+      30.18,
+      39.04,
+      22.71
+    ],
+    "relative_luminance": 0.0612,
+    "tone": "Deep Dark",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      0.0,
+      0.703,
+      0.502
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      124,
+      171,
+      177,
+      205,
+      217,
+      258,
+      269,
+      283
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Violet Red",
+    "hex": "#642d5e",
+    "rgb": [
+      100,
+      45,
+      94
+    ],
+    "cmyk": [
+      75,
+      100,
+      50,
+      5
+    ],
+    "lab": [
+      27.77,
+      30.39,
+      -17.74
+    ],
+    "relative_luminance": 0.0539,
+    "tone": "Deep Dark",
+    "hue_category": "Violet / Purple / Plum",
+    "warmth": "Warm",
+    "hsv": [
+      306.5,
+      0.55,
+      0.392
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      9
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Vistoris Lake",
+    "hex": "#6d4145",
+    "rgb": [
+      109,
+      65,
+      69
+    ],
+    "cmyk": [
+      40,
+      71,
+      55,
+      40
+    ],
+    "lab": [
+      33.09,
+      20.3,
+      6.1
+    ],
+    "relative_luminance": 0.0746,
+    "tone": "Deep Dark",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      354.5,
+      0.404,
+      0.427
+    ],
+    "swatch_chapter": 0,
+    "combinations": [
+      63,
+      91,
+      165,
+      226,
+      290,
+      337
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Sulpher Yellow",
+    "hex": "#f5ecc2",
+    "rgb": [
+      245,
+      236,
+      194
+    ],
+    "cmyk": [
+      4,
+      4,
+      28,
+      0
+    ],
+    "lab": [
+      93.22,
+      -1.73,
+      21.65
+    ],
+    "relative_luminance": 0.833,
+    "tone": "Light / High-Luminance",
+    "hue_category": "Yellow / Ochre",
+    "warmth": "Warm",
+    "hsv": [
+      49.4,
+      0.208,
+      0.961
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      52,
+      72,
+      80,
+      104,
+      132,
+      135,
+      151,
+      208,
+      246,
+      254,
+      270,
+      294,
+      296,
+      310,
+      315,
+      320,
+      321,
+      326
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Pale Lemon Yellow",
+    "hex": "#ffefae",
+    "rgb": [
+      255,
+      239,
+      174
+    ],
+    "cmyk": [
+      0,
+      4,
+      38,
+      0
+    ],
+    "lab": [
+      94.86,
+      -0.14,
+      34.09
+    ],
+    "relative_luminance": 0.8605,
+    "tone": "Light / High-Luminance",
+    "hue_category": "Yellow / Ochre",
+    "warmth": "Warm",
+    "hsv": [
+      48.1,
+      0.318,
+      1.0
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      3,
+      31,
+      60,
+      76,
+      99,
+      109,
+      111,
+      169,
+      185,
+      195,
+      203,
+      228,
+      241,
+      261,
+      272,
+      281,
+      290,
+      292,
+      336
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Naples Yellow",
+    "hex": "#fbe6a0",
+    "rgb": [
+      251,
+      230,
+      160
+    ],
+    "cmyk": [
+      2,
+      7,
+      44,
+      0
+    ],
+    "lab": [
+      91.73,
+      0.32,
+      36.57
+    ],
+    "relative_luminance": 0.7964,
+    "tone": "Light / High-Luminance",
+    "hue_category": "Yellow / Ochre",
+    "warmth": "Warm",
+    "hsv": [
+      46.2,
+      0.363,
+      0.984
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      14,
+      115,
+      166,
+      193,
+      303,
+      325
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Ivory Buff",
+    "hex": "#ebd3a2",
+    "rgb": [
+      235,
+      211,
+      162
+    ],
+    "cmyk": [
+      8,
+      15,
+      40,
+      0
+    ],
+    "lab": [
+      85.6,
+      3.38,
+      27.27
+    ],
+    "relative_luminance": 0.6686,
+    "tone": "Light / High-Luminance",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      40.3,
+      0.311,
+      0.922
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      11,
+      50,
+      94,
+      102,
+      126,
+      178,
+      184,
+      190,
+      209,
+      214,
+      235,
+      243,
+      262,
+      266,
+      301,
+      343
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Seashell Pink",
+    "hex": "#fdd4bd",
+    "rgb": [
+      253,
+      212,
+      189
+    ],
+    "cmyk": [
+      0,
+      19,
+      23,
+      0
+    ],
+    "lab": [
+      88.13,
+      12.09,
+      17.27
+    ],
+    "relative_luminance": 0.7164,
+    "tone": "Light / High-Luminance",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      21.6,
+      0.253,
+      0.992
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      45,
+      84,
+      88,
+      113,
+      150,
+      176,
+      194,
+      276,
+      334
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Light Pinkish Cinnamon",
+    "hex": "#fcc79b",
+    "rgb": [
+      252,
+      199,
+      155
+    ],
+    "cmyk": [
+      0,
+      25,
+      40,
+      0
+    ],
+    "lab": [
+      84.21,
+      15.63,
+      29.81
+    ],
+    "relative_luminance": 0.6391,
+    "tone": "Mid Light",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      27.2,
+      0.385,
+      0.988
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      317
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Pinkish Cinnamon",
+    "hex": "#eeb480",
+    "rgb": [
+      238,
+      180,
+      128
+    ],
+    "cmyk": [
+      5,
+      32,
+      53,
+      0
+    ],
+    "lab": [
+      77.85,
+      17.23,
+      34.75
+    ],
+    "relative_luminance": 0.5238,
+    "tone": "Mid Light",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      28.4,
+      0.462,
+      0.933
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      78,
+      161,
+      175,
+      232,
+      258,
+      263,
+      292,
+      305,
+      310
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Cinnamon Buff",
+    "hex": "#fdc57e",
+    "rgb": [
+      253,
+      197,
+      126
+    ],
+    "cmyk": [
+      0,
+      25,
+      57,
+      0
+    ],
+    "lab": [
+      83.53,
+      14.74,
+      43.67
+    ],
+    "relative_luminance": 0.6232,
+    "tone": "Mid Light",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      33.5,
+      0.502,
+      0.992
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      23,
+      127,
+      137,
+      180,
+      210,
+      234,
+      246,
+      323,
+      344
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Cream Yellow",
+    "hex": "#fdbf68",
+    "rgb": [
+      253,
+      191,
+      104
+    ],
+    "cmyk": [
+      0,
+      28,
+      68,
+      0
+    ],
+    "lab": [
+      81.81,
+      16.47,
+      51.98
+    ],
+    "relative_luminance": 0.5914,
+    "tone": "Mid Light",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      35.0,
+      0.589,
+      0.992
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      122,
+      192,
+      215,
+      226,
+      267,
+      278,
+      294,
+      295,
+      300,
+      302,
+      304,
+      311,
+      329,
+      342
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Golden Yellow",
+    "hex": "#f3a257",
+    "rgb": [
+      243,
+      162,
+      87
+    ],
+    "cmyk": [
+      2,
+      42,
+      74,
+      0
+    ],
+    "lab": [
+      73.86,
+      25.94,
+      51.18
+    ],
+    "relative_luminance": 0.4558,
+    "tone": "Mid Light",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      28.8,
+      0.642,
+      0.953
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      26,
+      81,
+      132,
+      138,
+      140,
+      179,
+      206,
+      229,
+      309,
+      315
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Vinaceous Cinnamon",
+    "hex": "#eea78c",
+    "rgb": [
+      238,
+      167,
+      140
+    ],
+    "cmyk": [
+      4,
+      40,
+      42,
+      0
+    ],
+    "lab": [
+      74.99,
+      24.74,
+      24.81
+    ],
+    "relative_luminance": 0.4771,
+    "tone": "Mid Light",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      16.5,
+      0.412,
+      0.933
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      203,
+      205,
+      213,
+      256,
+      260,
+      279,
+      299
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Ochraceous Salmon",
+    "hex": "#d8a37b",
+    "rgb": [
+      216,
+      163,
+      123
+    ],
+    "cmyk": [
+      15,
+      38,
+      55,
+      0
+    ],
+    "lab": [
+      71.45,
+      16.46,
+      29.1
+    ],
+    "relative_luminance": 0.4222,
+    "tone": "Mid Light",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      25.8,
+      0.431,
+      0.847
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      32,
+      71,
+      121,
+      186,
+      217,
+      220,
+      223,
+      238,
+      296,
+      339
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Isabella Color",
+    "hex": "#c5a56e",
+    "rgb": [
+      197,
+      165,
+      110
+    ],
+    "cmyk": [
+      15,
+      28,
+      60,
+      10
+    ],
+    "lab": [
+      69.68,
+      7.07,
+      33.02
+    ],
+    "relative_luminance": 0.3991,
+    "tone": "Mid Light",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      37.9,
+      0.442,
+      0.773
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      4,
+      12,
+      241,
+      292
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Maple",
+    "hex": "#c59f6b",
+    "rgb": [
+      197,
+      159,
+      107
+    ],
+    "cmyk": [
+      5,
+      26,
+      56,
+      20
+    ],
+    "lab": [
+      68.19,
+      9.59,
+      32.95
+    ],
+    "relative_luminance": 0.3773,
+    "tone": "Mid Light",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      34.7,
+      0.457,
+      0.773
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      282
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Olive Buff",
+    "hex": "#c1c494",
+    "rgb": [
+      193,
+      196,
+      148
+    ],
+    "cmyk": [
+      16,
+      6,
+      42,
+      12
+    ],
+    "lab": [
+      78.05,
+      -7.11,
+      23.66
+    ],
+    "relative_luminance": 0.5296,
+    "tone": "Mid Light",
+    "hue_category": "Yellow / Ochre",
+    "warmth": "Warm",
+    "hsv": [
+      63.8,
+      0.245,
+      0.769
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      83,
+      175,
+      200,
+      330,
+      348
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Ecru",
+    "hex": "#c2ae93",
+    "rgb": [
+      194,
+      174,
+      147
+    ],
+    "cmyk": [
+      20,
+      25,
+      40,
+      6
+    ],
+    "lab": [
+      72.19,
+      4.23,
+      16.73
+    ],
+    "relative_luminance": 0.4385,
+    "tone": "Mid Light",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      34.5,
+      0.242,
+      0.761
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      167,
+      249,
+      275,
+      279,
+      292,
+      302,
+      317,
+      327
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Yellow",
+    "hex": "#fff200",
+    "rgb": [
+      255,
+      242,
+      0
+    ],
+    "cmyk": [
+      0,
+      0,
+      100,
+      0
+    ],
+    "lab": [
+      94.96,
+      -6.46,
+      95.58
+    ],
+    "relative_luminance": 0.8476,
+    "tone": "Light / High-Luminance",
+    "hue_category": "Yellow / Ochre",
+    "warmth": "Warm",
+    "hsv": [
+      56.9,
+      1.0,
+      1.0
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      22,
+      62,
+      68,
+      154,
+      240,
+      251,
+      295,
+      313
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Lemon Yellow",
+    "hex": "#f8ed43",
+    "rgb": [
+      248,
+      237,
+      67
+    ],
+    "cmyk": [
+      5,
+      0,
+      85,
+      0
+    ],
+    "lab": [
+      92.66,
+      -9.39,
+      77.76
+    ],
+    "relative_luminance": 0.8093,
+    "tone": "Light / High-Luminance",
+    "hue_category": "Yellow / Ochre",
+    "warmth": "Warm",
+    "hsv": [
+      56.4,
+      0.73,
+      0.973
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      45,
+      123,
+      138,
+      158,
+      168,
+      173,
+      189,
+      210,
+      253,
+      259,
+      289,
+      298,
+      306,
+      317,
+      333
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Apricot Yellow",
+    "hex": "#ffdd00",
+    "rgb": [
+      255,
+      221,
+      0
+    ],
+    "cmyk": [
+      0,
+      10,
+      100,
+      0
+    ],
+    "lab": [
+      89.35,
+      1.91,
+      89.46
+    ],
+    "relative_luminance": 0.7297,
+    "tone": "Light / High-Luminance",
+    "hue_category": "Yellow / Ochre",
+    "warmth": "Warm",
+    "hsv": [
+      52.0,
+      1.0,
+      1.0
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      107,
+      129,
+      163,
+      198,
+      213,
+      247,
+      265,
+      284,
+      305,
+      319
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Pyrite Yellow",
+    "hex": "#cab356",
+    "rgb": [
+      202,
+      179,
+      86
+    ],
+    "cmyk": [
+      23,
+      25,
+      80,
+      0
+    ],
+    "lab": [
+      73.56,
+      0.42,
+      49.82
+    ],
+    "relative_luminance": 0.4547,
+    "tone": "Mid Light",
+    "hue_category": "Yellow / Ochre",
+    "warmth": "Warm",
+    "hsv": [
+      48.1,
+      0.574,
+      0.792
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      239,
+      250,
+      255,
+      287
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Olive Ocher",
+    "hex": "#d6b43e",
+    "rgb": [
+      214,
+      180,
+      62
+    ],
+    "cmyk": [
+      18,
+      26,
+      90,
+      0
+    ],
+    "lab": [
+      74.88,
+      3.57,
+      61.81
+    ],
+    "relative_luminance": 0.4729,
+    "tone": "Mid Light",
+    "hue_category": "Yellow / Ochre",
+    "warmth": "Warm",
+    "hsv": [
+      46.6,
+      0.71,
+      0.839
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      66,
+      148,
+      149,
+      156,
+      157,
+      249,
+      278
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Yellow Ocher",
+    "hex": "#e2b540",
+    "rgb": [
+      226,
+      181,
+      64
+    ],
+    "cmyk": [
+      12,
+      28,
+      88,
+      0
+    ],
+    "lab": [
+      76.19,
+      8.44,
+      62.79
+    ],
+    "relative_luminance": 0.4959,
+    "tone": "Mid Light",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      43.3,
+      0.717,
+      0.886
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      42,
+      96,
+      118,
+      124,
+      126,
+      191,
+      222,
+      325
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Orange Yellow",
+    "hex": "#fcb315",
+    "rgb": [
+      252,
+      179,
+      21
+    ],
+    "cmyk": [
+      0,
+      33,
+      100,
+      0
+    ],
+    "lab": [
+      78.49,
+      19.57,
+      78.22
+    ],
+    "relative_luminance": 0.5299,
+    "tone": "Mid Light",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      41.0,
+      0.917,
+      0.988
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      114,
+      148,
+      153,
+      164,
+      170,
+      257,
+      286,
+      338
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Yellow Orange",
+    "hex": "#f99d1b",
+    "rgb": [
+      249,
+      157,
+      27
+    ],
+    "cmyk": [
+      0,
+      45,
+      100,
+      0
+    ],
+    "lab": [
+      72.96,
+      29.4,
+      72.94
+    ],
+    "relative_luminance": 0.4433,
+    "tone": "Mid Light",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      35.1,
+      0.892,
+      0.976
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      2,
+      53,
+      89,
+      151,
+      171,
+      209,
+      222,
+      235,
+      267,
+      288,
+      297,
+      312,
+      319,
+      335
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Apricot Orange",
+    "hex": "#f68c50",
+    "rgb": [
+      246,
+      140,
+      80
+    ],
+    "cmyk": [
+      0,
+      55,
+      75,
+      0
+    ],
+    "lab": [
+      69.37,
+      37.69,
+      49.65
+    ],
+    "relative_luminance": 0.3893,
+    "tone": "Mid Light",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      21.7,
+      0.675,
+      0.965
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      211,
+      253,
+      309,
+      328
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Orange",
+    "hex": "#f37420",
+    "rgb": [
+      243,
+      116,
+      32
+    ],
+    "cmyk": [
+      0,
+      68,
+      100,
+      0
+    ],
+    "lab": [
+      63.8,
+      47.16,
+      64.72
+    ],
+    "relative_luminance": 0.3165,
+    "tone": "Mid Dark",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      23.9,
+      0.868,
+      0.953
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      7,
+      46,
+      141,
+      144,
+      149,
+      256,
+      272
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Peach Red",
+    "hex": "#f15a30",
+    "rgb": [
+      241,
+      90,
+      48
+    ],
+    "cmyk": [
+      0,
+      80,
+      90,
+      0
+    ],
+    "lab": [
+      59.1,
+      57.55,
+      54.35
+    ],
+    "relative_luminance": 0.2623,
+    "tone": "Mid Dark",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      13.1,
+      0.801,
+      0.945
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      115,
+      250,
+      274,
+      285,
+      298,
+      303,
+      326,
+      340
+    ]
+  },
+  {
+    "id": 65,
+    "name": "English Red",
+    "hex": "#d96629",
+    "rgb": [
+      217,
+      102,
+      41
+    ],
+    "cmyk": [
+      13,
+      73,
+      100,
+      0
+    ],
+    "lab": [
+      57.22,
+      43.3,
+      54.36
+    ],
+    "relative_luminance": 0.2441,
+    "tone": "Mid Dark",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      20.8,
+      0.811,
+      0.851
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      1,
+      131,
+      190,
+      308,
+      339
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Cinnamon Rufous",
+    "hex": "#c27544",
+    "rgb": [
+      194,
+      117,
+      68
+    ],
+    "cmyk": [
+      20,
+      60,
+      82,
+      5
+    ],
+    "lab": [
+      57.23,
+      27.77,
+      40.23
+    ],
+    "relative_luminance": 0.2461,
+    "tone": "Mid Dark",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      23.3,
+      0.649,
+      0.761
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      8,
+      10,
+      103,
+      158,
+      172,
+      204,
+      206
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Orange Rufous",
+    "hex": "#c16b27",
+    "rgb": [
+      193,
+      107,
+      39
+    ],
+    "cmyk": [
+      18,
+      65,
+      100,
+      8
+    ],
+    "lab": [
+      54.56,
+      31.61,
+      51.25
+    ],
+    "relative_luminance": 0.22,
+    "tone": "Mid Dark",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      26.5,
+      0.798,
+      0.757
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      91,
+      102,
+      222
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Sulphine Yellow",
+    "hex": "#c19f2c",
+    "rgb": [
+      193,
+      159,
+      44
+    ],
+    "cmyk": [
+      24,
+      32,
+      100,
+      4
+    ],
+    "lab": [
+      67.24,
+      4.35,
+      60.55
+    ],
+    "relative_luminance": 0.3632,
+    "tone": "Mid Light",
+    "hue_category": "Yellow / Ochre",
+    "warmth": "Warm",
+    "hsv": [
+      46.3,
+      0.772,
+      0.757
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      36,
+      65,
+      142,
+      160,
+      252
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Khaki",
+    "hex": "#bc892b",
+    "rgb": [
+      188,
+      137,
+      43
+    ],
+    "cmyk": [
+      24,
+      45,
+      100,
+      6
+    ],
+    "lab": [
+      61.02,
+      13.86,
+      55.05
+    ],
+    "relative_luminance": 0.2876,
+    "tone": "Mid Dark",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      38.9,
+      0.771,
+      0.737
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      129,
+      146,
+      159,
+      236,
+      248
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Citron Yellow",
+    "hex": "#b2b73e",
+    "rgb": [
+      178,
+      183,
+      62
+    ],
+    "cmyk": [
+      35,
+      17,
+      95,
+      0
+    ],
+    "lab": [
+      72.47,
+      -13.06,
+      58.18
+    ],
+    "relative_luminance": 0.4368,
+    "tone": "Mid Light",
+    "hue_category": "Yellow / Ochre",
+    "warmth": "Warm",
+    "hsv": [
+      62.5,
+      0.661,
+      0.718
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      40,
+      87,
+      145,
+      150,
+      153,
+      196,
+      305,
+      323
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Citrine",
+    "hex": "#b09f36",
+    "rgb": [
+      176,
+      159,
+      54
+    ],
+    "cmyk": [
+      36,
+      32,
+      100,
+      0
+    ],
+    "lab": [
+      65.56,
+      -2.58,
+      54.49
+    ],
+    "relative_luminance": 0.3429,
+    "tone": "Mid Dark",
+    "hue_category": "Yellow / Ochre",
+    "warmth": "Warm",
+    "hsv": [
+      51.6,
+      0.693,
+      0.69
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      59,
+      93,
+      132,
+      133,
+      262
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Buffy Citrine",
+    "hex": "#96874d",
+    "rgb": [
+      150,
+      135,
+      77
+    ],
+    "cmyk": [
+      42,
+      40,
+      82,
+      8
+    ],
+    "lab": [
+      56.62,
+      0.0,
+      33.3
+    ],
+    "relative_luminance": 0.2435,
+    "tone": "Mid Dark",
+    "hue_category": "Yellow / Ochre",
+    "warmth": "Warm",
+    "hsv": [
+      47.7,
+      0.487,
+      0.588
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      100,
+      177,
+      233
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Dark Citrine",
+    "hex": "#8b835b",
+    "rgb": [
+      139,
+      131,
+      91
+    ],
+    "cmyk": [
+      38,
+      34,
+      67,
+      20
+    ],
+    "lab": [
+      54.71,
+      -1.4,
+      23.07
+    ],
+    "relative_luminance": 0.2248,
+    "tone": "Mid Dark",
+    "hue_category": "Yellow / Ochre",
+    "warmth": "Warm",
+    "hsv": [
+      50.0,
+      0.345,
+      0.545
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      10,
+      41,
+      274,
+      304
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Light Grayish Olive",
+    "hex": "#848061",
+    "rgb": [
+      132,
+      128,
+      97
+    ],
+    "cmyk": [
+      43,
+      36,
+      62,
+      19
+    ],
+    "lab": [
+      53.19,
+      -2.28,
+      17.02
+    ],
+    "relative_luminance": 0.2121,
+    "tone": "Mid Dark",
+    "hue_category": "Yellow / Ochre",
+    "warmth": "Warm",
+    "hsv": [
+      53.1,
+      0.265,
+      0.518
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      107,
+      184
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Krongbergs Green",
+    "hex": "#84875e",
+    "rgb": [
+      132,
+      135,
+      94
+    ],
+    "cmyk": [
+      48,
+      35,
+      70,
+      12
+    ],
+    "lab": [
+      55.12,
+      -6.19,
+      21.51
+    ],
+    "relative_luminance": 0.2304,
+    "tone": "Mid Dark",
+    "hue_category": "Yellow / Ochre",
+    "warmth": "Warm",
+    "hsv": [
+      64.4,
+      0.304,
+      0.529
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      29
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Olive",
+    "hex": "#837e31",
+    "rgb": [
+      131,
+      126,
+      49
+    ],
+    "cmyk": [
+      48,
+      38,
+      100,
+      15
+    ],
+    "lab": [
+      52.21,
+      -5.73,
+      41.49
+    ],
+    "relative_luminance": 0.1997,
+    "tone": "Mid Dark",
+    "hue_category": "Yellow / Ochre",
+    "warmth": "Warm",
+    "hsv": [
+      56.3,
+      0.626,
+      0.514
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      96,
+      201,
+      254,
+      258,
+      277,
+      310,
+      334
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Orange Citrine",
+    "hex": "#986f2d",
+    "rgb": [
+      152,
+      111,
+      45
+    ],
+    "cmyk": [
+      28,
+      48,
+      92,
+      24
+    ],
+    "lab": [
+      50.24,
+      11.52,
+      42.05
+    ],
+    "relative_luminance": 0.1823,
+    "tone": "Mid Dark",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      37.0,
+      0.704,
+      0.596
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      212,
+      342
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Sudan Brown",
+    "hex": "#a36752",
+    "rgb": [
+      163,
+      103,
+      82
+    ],
+    "cmyk": [
+      25,
+      60,
+      65,
+      19
+    ],
+    "lab": [
+      49.86,
+      23.03,
+      22.45
+    ],
+    "relative_luminance": 0.181,
+    "tone": "Mid Dark",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      15.6,
+      0.497,
+      0.639
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      207,
+      214,
+      273
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Olive Green",
+    "hex": "#6b7140",
+    "rgb": [
+      107,
+      113,
+      64
+    ],
+    "cmyk": [
+      56,
+      40,
+      85,
+      22
+    ],
+    "lab": [
+      46.39,
+      -8.49,
+      26.49
+    ],
+    "relative_luminance": 0.1531,
+    "tone": "Mid Dark",
+    "hue_category": "Yellow / Ochre",
+    "warmth": "Warm",
+    "hsv": [
+      67.3,
+      0.434,
+      0.443
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      66,
+      243,
+      270,
+      297
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Light Brownish Olive",
+    "hex": "#806e4b",
+    "rgb": [
+      128,
+      110,
+      75
+    ],
+    "cmyk": [
+      42,
+      46,
+      73,
+      24
+    ],
+    "lab": [
+      47.51,
+      3.75,
+      22.19
+    ],
+    "relative_luminance": 0.1625,
+    "tone": "Mid Dark",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      39.6,
+      0.414,
+      0.502
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      199,
+      318
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Deep Grayish Olive",
+    "hex": "#635a3a",
+    "rgb": [
+      99,
+      90,
+      58
+    ],
+    "cmyk": [
+      50,
+      48,
+      78,
+      37
+    ],
+    "lab": [
+      38.61,
+      -0.28,
+      19.94
+    ],
+    "relative_luminance": 0.1027,
+    "tone": "Deep Dark",
+    "hue_category": "Yellow / Ochre",
+    "warmth": "Warm",
+    "hsv": [
+      46.8,
+      0.414,
+      0.388
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      146,
+      343
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Pale Raw Umber",
+    "hex": "#71502f",
+    "rgb": [
+      113,
+      80,
+      47
+    ],
+    "cmyk": [
+      46,
+      63,
+      87,
+      32
+    ],
+    "lab": [
+      37.07,
+      11.19,
+      24.96
+    ],
+    "relative_luminance": 0.0945,
+    "tone": "Deep Dark",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      30.0,
+      0.584,
+      0.443
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      26,
+      73,
+      160,
+      234,
+      296
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Sepia",
+    "hex": "#644b1e",
+    "rgb": [
+      100,
+      75,
+      30
+    ],
+    "cmyk": [
+      48,
+      60,
+      100,
+      40
+    ],
+    "lab": [
+      33.83,
+      6.87,
+      30.23
+    ],
+    "relative_luminance": 0.0784,
+    "tone": "Deep Dark",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      38.6,
+      0.7,
+      0.392
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      24,
+      288
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Madder Brown",
+    "hex": "#762c19",
+    "rgb": [
+      118,
+      44,
+      25
+    ],
+    "cmyk": [
+      36,
+      88,
+      100,
+      38
+    ],
+    "lab": [
+      29.09,
+      32.0,
+      29.28
+    ],
+    "relative_luminance": 0.0572,
+    "tone": "Deep Dark",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      12.3,
+      0.788,
+      0.463
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      28,
+      79,
+      98,
+      173,
+      237,
+      275,
+      323
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Mars Brown Tobacco",
+    "hex": "#653514",
+    "rgb": [
+      101,
+      53,
+      20
+    ],
+    "cmyk": [
+      39,
+      76,
+      100,
+      47
+    ],
+    "lab": [
+      28.03,
+      20.45,
+      29.84
+    ],
+    "relative_luminance": 0.0536,
+    "tone": "Deep Dark",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      24.4,
+      0.802,
+      0.396
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      19
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Vandyke Brown",
+    "hex": "#4b3317",
+    "rgb": [
+      75,
+      51,
+      23
+    ],
+    "cmyk": [
+      56,
+      71,
+      97,
+      52
+    ],
+    "lab": [
+      23.81,
+      8.5,
+      22.1
+    ],
+    "relative_luminance": 0.0393,
+    "tone": "Deep Dark",
+    "hue_category": "Orange / Persimmon",
+    "warmth": "Warm",
+    "hsv": [
+      32.3,
+      0.693,
+      0.294
+    ],
+    "swatch_chapter": 1,
+    "combinations": [
+      110,
+      113,
+      118,
+      182,
+      192,
+      328
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Turquoise Green",
+    "hex": "#b5decc",
+    "rgb": [
+      181,
+      222,
+      204
+    ],
+    "cmyk": [
+      29,
+      0,
+      24,
+      0
+    ],
+    "lab": [
+      85.26,
+      -16.89,
+      4.6
+    ],
+    "relative_luminance": 0.6643,
+    "tone": "Light / High-Luminance",
+    "hue_category": "Green / Olive / Moss",
+    "warmth": "Neutral-Cool",
+    "hsv": [
+      153.7,
+      0.185,
+      0.871
+    ],
+    "swatch_chapter": 2,
+    "combinations": [
+      36,
+      74,
+      147,
+      163,
+      173,
+      202,
+      223,
+      230,
+      263,
+      272,
+      285,
+      293,
+      300,
+      305,
+      317,
+      346
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Glaucous Green",
+    "hex": "#b4cdc2",
+    "rgb": [
+      180,
+      205,
+      194
+    ],
+    "cmyk": [
+      30,
+      9,
+      24,
+      0
+    ],
+    "lab": [
+      80.3,
+      -10.24,
+      2.3
+    ],
+    "relative_luminance": 0.5726,
+    "tone": "Mid Light",
+    "hue_category": "Neutral Gray/Slate",
+    "warmth": "Neutral-Cool",
+    "hsv": [
+      153.6,
+      0.122,
+      0.804
+    ],
+    "swatch_chapter": 2,
+    "combinations": [
+      7,
+      150,
+      171,
+      207,
+      239,
+      260
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Dark Greenish Glaucous",
+    "hex": "#b7c2a9",
+    "rgb": [
+      183,
+      194,
+      169
+    ],
+    "cmyk": [
+      30,
+      15,
+      36,
+      0
+    ],
+    "lab": [
+      77.09,
+      -7.56,
+      11.37
+    ],
+    "relative_luminance": 0.5152,
+    "tone": "Mid Light",
+    "hue_category": "Neutral Gray/Slate",
+    "warmth": "Warm",
+    "hsv": [
+      86.4,
+      0.129,
+      0.761
+    ],
+    "swatch_chapter": 2,
+    "combinations": [
+      264,
+      311
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Yellow Green",
+    "hex": "#afd472",
+    "rgb": [
+      175,
+      212,
+      114
+    ],
+    "cmyk": [
+      35,
+      0,
+      72,
+      0
+    ],
+    "lab": [
+      80.61,
+      -24.6,
+      43.91
+    ],
+    "relative_luminance": 0.5742,
+    "tone": "Mid Light",
+    "hue_category": "Green / Olive / Moss",
+    "warmth": "Warm",
+    "hsv": [
+      82.7,
+      0.462,
+      0.831
+    ],
+    "swatch_chapter": 2,
+    "combinations": [
+      111,
+      141,
+      276,
+      326,
+      334
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Light Green Yellow",
+    "hex": "#c7d14f",
+    "rgb": [
+      199,
+      209,
+      79
+    ],
+    "cmyk": [
+      26,
+      5,
+      85,
+      0
+    ],
+    "lab": [
+      81.14,
+      -15.86,
+      60.56
+    ],
+    "relative_luminance": 0.5831,
+    "tone": "Mid Light",
+    "hue_category": "Yellow / Ochre",
+    "warmth": "Warm",
+    "hsv": [
+      64.6,
+      0.622,
+      0.82
+    ],
+    "swatch_chapter": 2,
+    "combinations": [
+      61,
+      289,
+      291,
+      311,
+      346
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Night Green",
+    "hex": "#87c540",
+    "rgb": [
+      135,
+      197,
+      64
+    ],
+    "cmyk": [
+      52,
+      0,
+      100,
+      0
+    ],
+    "lab": [
+      73.31,
+      -36.03,
+      57.03
+    ],
+    "relative_luminance": 0.4545,
+    "tone": "Mid Light",
+    "hue_category": "Green / Olive / Moss",
+    "warmth": "Warm",
+    "hsv": [
+      88.0,
+      0.675,
+      0.773
+    ],
+    "swatch_chapter": 2,
+    "combinations": [
+      19,
+      32,
+      158,
+      326
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Olive Yellow",
+    "hex": "#a6a159",
+    "rgb": [
+      166,
+      161,
+      89
+    ],
+    "cmyk": [
+      40,
+      30,
+      80,
+      0
+    ],
+    "lab": [
+      65.49,
+      -6.05,
+      37.84
+    ],
+    "relative_luminance": 0.3432,
+    "tone": "Mid Dark",
+    "hue_category": "Yellow / Ochre",
+    "warmth": "Warm",
+    "hsv": [
+      56.1,
+      0.464,
+      0.651
+    ],
+    "swatch_chapter": 2,
+    "combinations": [
+      124,
+      211,
+      265,
+      347
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Artemesia Green",
+    "hex": "#709390",
+    "rgb": [
+      112,
+      147,
+      144
+    ],
+    "cmyk": [
+      57,
+      28,
+      39,
+      8
+    ],
+    "lab": [
+      58.1,
+      -12.83,
+      -2.89
+    ],
+    "relative_luminance": 0.2633,
+    "tone": "Mid Dark",
+    "hue_category": "Cyan / Teal / Cerulean",
+    "warmth": "Neutral-Cool",
+    "hsv": [
+      174.9,
+      0.238,
+      0.576
+    ],
+    "swatch_chapter": 2,
+    "combinations": [
+      293,
+      312
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Andover Green",
+    "hex": "#6d7e77",
+    "rgb": [
+      109,
+      126,
+      119
+    ],
+    "cmyk": [
+      60,
+      40,
+      50,
+      10
+    ],
+    "lab": [
+      51.21,
+      -7.76,
+      1.54
+    ],
+    "relative_luminance": 0.195,
+    "tone": "Mid Dark",
+    "hue_category": "Neutral Gray/Slate",
+    "warmth": "Neutral-Cool",
+    "hsv": [
+      155.3,
+      0.135,
+      0.494
+    ],
+    "swatch_chapter": 2,
+    "combinations": [
+      244,
+      346
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Rainette Green",
+    "hex": "#8fa071",
+    "rgb": [
+      143,
+      160,
+      113
+    ],
+    "cmyk": [
+      42,
+      20,
+      62,
+      10
+    ],
+    "lab": [
+      63.74,
+      -12.53,
+      22.45
+    ],
+    "relative_luminance": 0.3217,
+    "tone": "Mid Dark",
+    "hue_category": "Green / Olive / Moss",
+    "warmth": "Warm",
+    "hsv": [
+      81.7,
+      0.294,
+      0.627
+    ],
+    "swatch_chapter": 2,
+    "combinations": [
+      73,
+      162,
+      188,
+      266,
+      301
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Chromium Green",
+    "hex": "#719470",
+    "rgb": [
+      113,
+      148,
+      112
+    ],
+    "cmyk": [
+      50,
+      16,
+      58,
+      20
+    ],
+    "lab": [
+      57.87,
+      -18.15,
+      14.99
+    ],
+    "relative_luminance": 0.2586,
+    "tone": "Mid Dark",
+    "hue_category": "Green / Olive / Moss",
+    "warmth": "Warm",
+    "hsv": [
+      118.3,
+      0.243,
+      0.58
+    ],
+    "swatch_chapter": 2,
+    "combinations": [
+      105,
+      200,
+      219,
+      283
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Pistachio Green",
+    "hex": "#648f7b",
+    "rgb": [
+      100,
+      143,
+      123
+    ],
+    "cmyk": [
+      64,
+      29,
+      56,
+      6
+    ],
+    "lab": [
+      55.82,
+      -18.64,
+      5.69
+    ],
+    "relative_luminance": 0.2378,
+    "tone": "Mid Dark",
+    "hue_category": "Green / Olive / Moss",
+    "warmth": "Neutral-Cool",
+    "hsv": [
+      152.1,
+      0.301,
+      0.561
+    ],
+    "swatch_chapter": 2,
+    "combinations": [
+      127,
+      137
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Sea Green",
+    "hex": "#00b49b",
+    "rgb": [
+      0,
+      180,
+      155
+    ],
+    "cmyk": [
+      80,
+      0,
+      51,
+      0
+    ],
+    "lab": [
+      65.05,
+      -48.9,
+      0.46
+    ],
+    "relative_luminance": 0.3501,
+    "tone": "Mid Light",
+    "hue_category": "Cyan / Teal / Cerulean",
+    "warmth": "Neutral-Cool",
+    "hsv": [
+      171.7,
+      1.0,
+      0.706
+    ],
+    "swatch_chapter": 2,
+    "combinations": [
+      17,
+      21,
+      58,
+      86,
+      133,
+      250,
+      260,
+      284,
+      291,
+      340,
+      347
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Benzol Green",
+    "hex": "#00978d",
+    "rgb": [
+      0,
+      151,
+      141
+    ],
+    "cmyk": [
+      100,
+      15,
+      55,
+      0
+    ],
+    "lab": [
+      53.56,
+      -54.63,
+      -8.31
+    ],
+    "relative_luminance": 0.2406,
+    "tone": "Mid Dark",
+    "hue_category": "Cyan / Teal / Cerulean",
+    "warmth": "Neutral-Cool",
+    "hsv": [
+      176.0,
+      1.0,
+      0.592
+    ],
+    "swatch_chapter": 2,
+    "combinations": [
+      15,
+      54,
+      92,
+      122,
+      155,
+      247,
+      266,
+      267,
+      281,
+      304,
+      306
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Light Porcelain Green",
+    "hex": "#00908a",
+    "rgb": [
+      0,
+      144,
+      138
+    ],
+    "cmyk": [
+      86,
+      22,
+      50,
+      3
+    ],
+    "lab": [
+      53.3,
+      -37.52,
+      -6.83
+    ],
+    "relative_luminance": 0.2178,
+    "tone": "Mid Dark",
+    "hue_category": "Cyan / Teal / Cerulean",
+    "warmth": "Neutral-Cool",
+    "hsv": [
+      177.5,
+      1.0,
+      0.565
+    ],
+    "swatch_chapter": 2,
+    "combinations": [
+      44,
+      193,
+      328
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Green",
+    "hex": "#489b6e",
+    "rgb": [
+      72,
+      155,
+      110
+    ],
+    "cmyk": [
+      75,
+      21,
+      73,
+      0
+    ],
+    "lab": [
+      57.77,
+      -34.51,
+      15.59
+    ],
+    "relative_luminance": 0.2595,
+    "tone": "Mid Dark",
+    "hue_category": "Green / Olive / Moss",
+    "warmth": "Warm",
+    "hsv": [
+      147.5,
+      0.535,
+      0.608
+    ],
+    "swatch_chapter": 2,
+    "combinations": [
+      198,
+      216,
+      293
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Dull Viridian Green",
+    "hex": "#009465",
+    "rgb": [
+      0,
+      148,
+      101
+    ],
+    "cmyk": [
+      90,
+      20,
+      80,
+      0
+    ],
+    "lab": [
+      53.5,
+      -49.0,
+      14.44
+    ],
+    "relative_luminance": 0.2212,
+    "tone": "Mid Dark",
+    "hue_category": "Green / Olive / Moss",
+    "warmth": "Neutral-Cool",
+    "hsv": [
+      160.9,
+      1.0,
+      0.58
+    ],
+    "swatch_chapter": 2,
+    "combinations": [
+      136,
+      256,
+      306,
+      316
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Oil Green",
+    "hex": "#819238",
+    "rgb": [
+      129,
+      146,
+      56
+    ],
+    "cmyk": [
+      53,
+      28,
+      100,
+      8
+    ],
+    "lab": [
+      57.64,
+      -16.01,
+      43.77
+    ],
+    "relative_luminance": 0.2551,
+    "tone": "Mid Dark",
+    "hue_category": "Green / Olive / Moss",
+    "warmth": "Warm",
+    "hsv": [
+      71.3,
+      0.616,
+      0.573
+    ],
+    "swatch_chapter": 2,
+    "combinations": [
+      245,
+      299,
+      320
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Diamine Green",
+    "hex": "#1a7444",
+    "rgb": [
+      26,
+      116,
+      68
+    ],
+    "cmyk": [
+      87,
+      32,
+      91,
+      18
+    ],
+    "lab": [
+      42.74,
+      -35.66,
+      18.56
+    ],
+    "relative_luminance": 0.1313,
+    "tone": "Deep Dark",
+    "hue_category": "Green / Olive / Moss",
+    "warmth": "Warm",
+    "hsv": [
+      148.0,
+      0.776,
+      0.455
+    ],
+    "swatch_chapter": 2,
+    "combinations": [
+      38,
+      146,
+      217,
+      242,
+      251,
+      313
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Cossack Green",
+    "hex": "#437742",
+    "rgb": [
+      67,
+      119,
+      66
+    ],
+    "cmyk": [
+      76,
+      32,
+      91,
+      18
+    ],
+    "lab": [
+      45.46,
+      -27.2,
+      23.45
+    ],
+    "relative_luminance": 0.1478,
+    "tone": "Deep Dark",
+    "hue_category": "Green / Olive / Moss",
+    "warmth": "Warm",
+    "hsv": [
+      118.9,
+      0.445,
+      0.467
+    ],
+    "swatch_chapter": 2,
+    "combinations": [
+      5,
+      135,
+      262,
+      270,
+      278,
+      294,
+      319,
+      341,
+      348
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Lincoln Green",
+    "hex": "#555832",
+    "rgb": [
+      85,
+      88,
+      50
+    ],
+    "cmyk": [
+      60,
+      48,
+      86,
+      37
+    ],
+    "lab": [
+      36.27,
+      -5.91,
+      21.18
+    ],
+    "relative_luminance": 0.0914,
+    "tone": "Deep Dark",
+    "hue_category": "Yellow / Ochre",
+    "warmth": "Warm",
+    "hsv": [
+      64.7,
+      0.432,
+      0.345
+    ],
+    "swatch_chapter": 2,
+    "combinations": [
+      70,
+      121,
+      203,
+      210,
+      280,
+      290
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Blackish Olive",
+    "hex": "#42533e",
+    "rgb": [
+      66,
+      83,
+      62
+    ],
+    "cmyk": [
+      56,
+      32,
+      63,
+      55
+    ],
+    "lab": [
+      33.26,
+      -10.13,
+      9.69
+    ],
+    "relative_luminance": 0.0769,
+    "tone": "Deep Dark",
+    "hue_category": "Green / Olive / Moss",
+    "warmth": "Warm",
+    "hsv": [
+      108.6,
+      0.253,
+      0.325
+    ],
+    "swatch_chapter": 2,
+    "combinations": [
+      109,
+      318,
+      336
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Deep Slate Olive",
+    "hex": "#253122",
+    "rgb": [
+      37,
+      49,
+      34
+    ],
+    "cmyk": [
+      76,
+      60,
+      80,
+      62
+    ],
+    "lab": [
+      18.8,
+      -7.67,
+      7.54
+    ],
+    "relative_luminance": 0.0271,
+    "tone": "Deep Dark",
+    "hue_category": "Green / Olive / Moss",
+    "warmth": "Warm",
+    "hsv": [
+      108.0,
+      0.306,
+      0.192
+    ],
+    "swatch_chapter": 2,
+    "combinations": [
+      189,
+      229,
+      268,
+      303,
+      310,
+      321,
+      332,
+      341,
+      342,
+      348
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Nile Blue",
+    "hex": "#bce4e5",
+    "rgb": [
+      188,
+      228,
+      229
+    ],
+    "cmyk": [
+      25,
+      0,
+      10,
+      0
+    ],
+    "lab": [
+      87.68,
+      -13.25,
+      -5.03
+    ],
+    "relative_luminance": 0.7184,
+    "tone": "Light / High-Luminance",
+    "hue_category": "Cyan / Teal / Cerulean",
+    "warmth": "Neutral-Cool",
+    "hsv": [
+      181.5,
+      0.179,
+      0.898
+    ],
+    "swatch_chapter": 3,
+    "combinations": [
+      25,
+      250,
+      268,
+      302,
+      306,
+      330,
+      345
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Pale King's Blue",
+    "hex": "#a7d4e4",
+    "rgb": [
+      167,
+      212,
+      228
+    ],
+    "cmyk": [
+      33,
+      4,
+      7,
+      0
+    ],
+    "lab": [
+      82.21,
+      -12.74,
+      -12.88
+    ],
+    "relative_luminance": 0.609,
+    "tone": "Mid Light",
+    "hue_category": "Blue / Cobalt / Indigo",
+    "warmth": "Cool",
+    "hsv": [
+      195.7,
+      0.268,
+      0.894
+    ],
+    "swatch_chapter": 3,
+    "combinations": [
+      16,
+      49,
+      72,
+      75,
+      167,
+      196,
+      213,
+      234,
+      287
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Light Glaucous Blue",
+    "hex": "#a5c8d1",
+    "rgb": [
+      165,
+      200,
+      209
+    ],
+    "cmyk": [
+      35,
+      10,
+      14,
+      0
+    ],
+    "lab": [
+      78.21,
+      -10.57,
+      -8.72
+    ],
+    "relative_luminance": 0.5391,
+    "tone": "Mid Light",
+    "hue_category": "Cyan / Teal / Cerulean",
+    "warmth": "Cool",
+    "hsv": [
+      192.3,
+      0.211,
+      0.82
+    ],
+    "swatch_chapter": 3,
+    "combinations": [
+      54,
+      93,
+      119,
+      152,
+      178,
+      204,
+      227,
+      320,
+      339,
+      341
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Salvia Blue",
+    "hex": "#97acc8",
+    "rgb": [
+      151,
+      172,
+      200
+    ],
+    "cmyk": [
+      41,
+      25,
+      10,
+      0
+    ],
+    "lab": [
+      69.47,
+      -2.76,
+      -16.75
+    ],
+    "relative_luminance": 0.4025,
+    "tone": "Mid Light",
+    "hue_category": "Blue / Cobalt / Indigo",
+    "warmth": "Cool",
+    "hsv": [
+      214.3,
+      0.245,
+      0.784
+    ],
+    "swatch_chapter": 3,
+    "combinations": [
+      29,
+      129,
+      135,
+      139,
+      142,
+      188,
+      209,
+      212,
+      237,
+      272,
+      294,
+      321,
+      330
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Cobalt Green",
+    "hex": "#96d1aa",
+    "rgb": [
+      150,
+      209,
+      170
+    ],
+    "cmyk": [
+      42,
+      0,
+      42,
+      0
+    ],
+    "lab": [
+      79.01,
+      -25.56,
+      13.0
+    ],
+    "relative_luminance": 0.5499,
+    "tone": "Mid Light",
+    "hue_category": "Green / Olive / Moss",
+    "warmth": "Warm",
+    "hsv": [
+      140.3,
+      0.282,
+      0.82
+    ],
+    "swatch_chapter": 3,
+    "combinations": [
+      156,
+      188,
+      201,
+      202,
+      230,
+      271,
+      281,
+      282,
+      290,
+      291,
+      308,
+      333
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Calamine BLue",
+    "hex": "#78cdd0",
+    "rgb": [
+      120,
+      205,
+      208
+    ],
+    "cmyk": [
+      50,
+      0,
+      20,
+      0
+    ],
+    "lab": [
+      77.09,
+      -26.24,
+      -10.37
+    ],
+    "relative_luminance": 0.5221,
+    "tone": "Mid Light",
+    "hue_category": "Cyan / Teal / Cerulean",
+    "warmth": "Neutral-Cool",
+    "hsv": [
+      182.0,
+      0.423,
+      0.816
+    ],
+    "swatch_chapter": 3,
+    "combinations": [
+      20,
+      41,
+      65,
+      159,
+      176,
+      255,
+      261,
+      287,
+      291,
+      300
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Venice Green",
+    "hex": "#62c6bf",
+    "rgb": [
+      98,
+      198,
+      191
+    ],
+    "cmyk": [
+      58,
+      0,
+      30,
+      0
+    ],
+    "lab": [
+      73.7,
+      -31.73,
+      -6.14
+    ],
+    "relative_luminance": 0.4675,
+    "tone": "Mid Light",
+    "hue_category": "Cyan / Teal / Cerulean",
+    "warmth": "Neutral-Cool",
+    "hsv": [
+      175.8,
+      0.505,
+      0.776
+    ],
+    "swatch_chapter": 3,
+    "combinations": [
+      78,
+      128,
+      138,
+      189,
+      283,
+      345
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Cerulian Blue",
+    "hex": "#0093a5",
+    "rgb": [
+      0,
+      147,
+      165
+    ],
+    "cmyk": [
+      84,
+      26,
+      32,
+      0
+    ],
+    "lab": [
+      54.97,
+      -30.19,
+      -20.14
+    ],
+    "relative_luminance": 0.2358,
+    "tone": "Mid Dark",
+    "hue_category": "Cyan / Teal / Cerulean",
+    "warmth": "Neutral-Cool",
+    "hsv": [
+      186.5,
+      1.0,
+      0.647
+    ],
+    "swatch_chapter": 3,
+    "combinations": [
+      1,
+      63,
+      99,
+      125,
+      148,
+      227,
+      240,
+      264
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Peacock Blue",
+    "hex": "#00939b",
+    "rgb": [
+      0,
+      147,
+      155
+    ],
+    "cmyk": [
+      100,
+      19,
+      43,
+      0
+    ],
+    "lab": [
+      52.79,
+      -48.91,
+      -17.52
+    ],
+    "relative_luminance": 0.2323,
+    "tone": "Mid Dark",
+    "hue_category": "Cyan / Teal / Cerulean",
+    "warmth": "Neutral-Cool",
+    "hsv": [
+      183.1,
+      1.0,
+      0.608
+    ],
+    "swatch_chapter": 3,
+    "combinations": [
+      131,
+      286
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Green Blue",
+    "hex": "#099197",
+    "rgb": [
+      9,
+      145,
+      151
+    ],
+    "cmyk": [
+      82,
+      24,
+      40,
+      3
+    ],
+    "lab": [
+      54.13,
+      -31.27,
+      -12.88
+    ],
+    "relative_luminance": 0.2254,
+    "tone": "Mid Dark",
+    "hue_category": "Cyan / Teal / Cerulean",
+    "warmth": "Neutral-Cool",
+    "hsv": [
+      182.5,
+      0.94,
+      0.592
+    ],
+    "swatch_chapter": 3,
+    "combinations": [
+      12,
+      74,
+      79,
+      178,
+      208,
+      252,
+      259,
+      271,
+      330
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Olympic Blue",
+    "hex": "#5a82b3",
+    "rgb": [
+      90,
+      130,
+      179
+    ],
+    "cmyk": [
+      69,
+      44,
+      10,
+      0
+    ],
+    "lab": [
+      53.09,
+      -3.63,
+      -30.74
+    ],
+    "relative_luminance": 0.2139,
+    "tone": "Mid Dark",
+    "hue_category": "Blue / Cobalt / Indigo",
+    "warmth": "Cool",
+    "hsv": [
+      213.0,
+      0.497,
+      0.702
+    ],
+    "swatch_chapter": 3,
+    "combinations": [
+      44,
+      67,
+      157,
+      194,
+      231,
+      274,
+      324
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Blue",
+    "hex": "#006eb8",
+    "rgb": [
+      0,
+      110,
+      184
+    ],
+    "cmyk": [
+      95,
+      54,
+      0,
+      0
+    ],
+    "lab": [
+      43.49,
+      -8.83,
+      -48.77
+    ],
+    "relative_luminance": 0.1461,
+    "tone": "Deep Dark",
+    "hue_category": "Blue / Cobalt / Indigo",
+    "warmth": "Cool",
+    "hsv": [
+      204.1,
+      1.0,
+      0.722
+    ],
+    "swatch_chapter": 3,
+    "combinations": [
+      49,
+      51,
+      88,
+      143,
+      154,
+      186,
+      191,
+      215,
+      257,
+      267,
+      295,
+      333
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Antwarp Blue",
+    "hex": "#007190",
+    "rgb": [
+      0,
+      113,
+      144
+    ],
+    "cmyk": [
+      100,
+      40,
+      30,
+      10
+    ],
+    "lab": [
+      42.03,
+      -29.12,
+      -27.73
+    ],
+    "relative_luminance": 0.1382,
+    "tone": "Deep Dark",
+    "hue_category": "Cyan / Teal / Cerulean",
+    "warmth": "Cool",
+    "hsv": [
+      192.9,
+      1.0,
+      0.565
+    ],
+    "swatch_chapter": 3,
+    "combinations": [
+      85,
+      106,
+      114,
+      140,
+      163,
+      172,
+      208,
+      244,
+      258,
+      281,
+      299,
+      302,
+      334
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Helvetia Blue",
+    "hex": "#005b8d",
+    "rgb": [
+      0,
+      91,
+      141
+    ],
+    "cmyk": [
+      100,
+      62,
+      19,
+      10
+    ],
+    "lab": [
+      35.31,
+      -12.1,
+      -36.37
+    ],
+    "relative_luminance": 0.0941,
+    "tone": "Deep Dark",
+    "hue_category": "Blue / Cobalt / Indigo",
+    "warmth": "Cool",
+    "hsv": [
+      201.3,
+      1.0,
+      0.553
+    ],
+    "swatch_chapter": 3,
+    "combinations": [
+      39,
+      48,
+      161,
+      187,
+      218,
+      259,
+      312,
+      347
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Dark Medici Blue",
+    "hex": "#547076",
+    "rgb": [
+      84,
+      112,
+      118
+    ],
+    "cmyk": [
+      70,
+      45,
+      45,
+      15
+    ],
+    "lab": [
+      45.12,
+      -9.23,
+      -6.86
+    ],
+    "relative_luminance": 0.1478,
+    "tone": "Deep Dark",
+    "hue_category": "Cyan / Teal / Cerulean",
+    "warmth": "Cool",
+    "hsv": [
+      190.6,
+      0.288,
+      0.463
+    ],
+    "swatch_chapter": 3,
+    "combinations": [
+      160,
+      224,
+      241,
+      249
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Dusky Green",
+    "hex": "#004f46",
+    "rgb": [
+      0,
+      79,
+      70
+    ],
+    "cmyk": [
+      100,
+      30,
+      64,
+      50
+    ],
+    "lab": [
+      27.97,
+      -36.27,
+      -3.28
+    ],
+    "relative_luminance": 0.0603,
+    "tone": "Deep Dark",
+    "hue_category": "Cyan / Teal / Cerulean",
+    "warmth": "Neutral-Cool",
+    "hsv": [
+      173.2,
+      1.0,
+      0.31
+    ],
+    "swatch_chapter": 3,
+    "combinations": [
+      94,
+      219,
+      225,
+      278,
+      284,
+      318,
+      332,
+      338
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Deep Lyons Blue",
+    "hex": "#1c4286",
+    "rgb": [
+      28,
+      66,
+      134
+    ],
+    "cmyk": [
+      100,
+      85,
+      15,
+      6
+    ],
+    "lab": [
+      28.53,
+      6.56,
+      -42.68
+    ],
+    "relative_luminance": 0.0586,
+    "tone": "Deep Dark",
+    "hue_category": "Blue / Cobalt / Indigo",
+    "warmth": "Cool",
+    "hsv": [
+      218.5,
+      0.791,
+      0.525
+    ],
+    "swatch_chapter": 3,
+    "combinations": [
+      22,
+      38,
+      101,
+      126,
+      179,
+      199,
+      236,
+      247,
+      314,
+      344
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Violet Blue",
+    "hex": "#40456a",
+    "rgb": [
+      64,
+      69,
+      106
+    ],
+    "cmyk": [
+      85,
+      79,
+      38,
+      16
+    ],
+    "lab": [
+      30.15,
+      5.44,
+      -22.38
+    ],
+    "relative_luminance": 0.0639,
+    "tone": "Deep Dark",
+    "hue_category": "Blue / Cobalt / Indigo",
+    "warmth": "Cool",
+    "hsv": [
+      232.9,
+      0.396,
+      0.416
+    ],
+    "swatch_chapter": 3,
+    "combinations": [
+      75,
+      83,
+      89,
+      98,
+      125,
+      233,
+      286,
+      289,
+      297,
+      309,
+      339
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Vandar Poel's Blue",
+    "hex": "#064f6e",
+    "rgb": [
+      6,
+      79,
+      110
+    ],
+    "cmyk": [
+      100,
+      73,
+      43,
+      10
+    ],
+    "lab": [
+      30.78,
+      -11.26,
+      -24.52
+    ],
+    "relative_luminance": 0.0676,
+    "tone": "Deep Dark",
+    "hue_category": "Blue / Cobalt / Indigo",
+    "warmth": "Cool",
+    "hsv": [
+      197.9,
+      0.945,
+      0.431
+    ],
+    "swatch_chapter": 3,
+    "combinations": [
+      5,
+      77,
+      151,
+      167,
+      168,
+      309,
+      343
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Dark Tyrian Blue",
+    "hex": "#12354e",
+    "rgb": [
+      18,
+      53,
+      78
+    ],
+    "cmyk": [
+      90,
+      66,
+      36,
+      50
+    ],
+    "lab": [
+      20.61,
+      -5.84,
+      -19.08
+    ],
+    "relative_luminance": 0.0322,
+    "tone": "Deep Dark",
+    "hue_category": "Blue / Cobalt / Indigo",
+    "warmth": "Cool",
+    "hsv": [
+      205.0,
+      0.769,
+      0.306
+    ],
+    "swatch_chapter": 3,
+    "combinations": [
+      2,
+      60,
+      67,
+      119,
+      141,
+      245,
+      279
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Dull Violet Black",
+    "hex": "#1e0e3f",
+    "rgb": [
+      30,
+      14,
+      63
+    ],
+    "cmyk": [
+      95,
+      106,
+      38,
+      50
+    ],
+    "lab": [
+      8.1,
+      19.43,
+      -28.81
+    ],
+    "relative_luminance": 0.0095,
+    "tone": "Deep Dark",
+    "hue_category": "Blue / Cobalt / Indigo",
+    "warmth": "Cool",
+    "hsv": [
+      259.6,
+      0.778,
+      0.247
+    ],
+    "swatch_chapter": 3,
+    "combinations": [
+      95,
+      106,
+      145,
+      265,
+      277,
+      289,
+      295,
+      331
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Deep Indigo",
+    "hex": "#051230",
+    "rgb": [
+      5,
+      18,
+      48
+    ],
+    "cmyk": [
+      100,
+      92,
+      52,
+      60
+    ],
+    "lab": [
+      5.82,
+      4.14,
+      -21.79
+    ],
+    "relative_luminance": 0.0068,
+    "tone": "Deep Dark",
+    "hue_category": "Blue / Cobalt / Indigo",
+    "warmth": "Cool",
+    "hsv": [
+      221.9,
+      0.896,
+      0.188
+    ],
+    "swatch_chapter": 3,
+    "combinations": [
+      6,
+      28,
+      139,
+      155,
+      182,
+      211,
+      232
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Deep Slate Green",
+    "hex": "#112f2c",
+    "rgb": [
+      17,
+      47,
+      44
+    ],
+    "cmyk": [
+      80,
+      50,
+      60,
+      70
+    ],
+    "lab": [
+      16.88,
+      -12.14,
+      -2.23
+    ],
+    "relative_luminance": 0.0233,
+    "tone": "Deep Dark",
+    "hue_category": "Cyan / Teal / Cerulean",
+    "warmth": "Neutral-Cool",
+    "hsv": [
+      174.0,
+      0.638,
+      0.184
+    ],
+    "swatch_chapter": 3,
+    "combinations": [
+      84,
+      149,
+      166,
+      271,
+      318,
+      325
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Grayish Lavender - A",
+    "hex": "#b5b1d8",
+    "rgb": [
+      181,
+      177,
+      216
+    ],
+    "cmyk": [
+      28,
+      28,
+      0,
+      0
+    ],
+    "lab": [
+      73.42,
+      7.46,
+      -19.35
+    ],
+    "relative_luminance": 0.4623,
+    "tone": "Mid Light",
+    "hue_category": "Blue / Cobalt / Indigo",
+    "warmth": "Cool",
+    "hsv": [
+      246.2,
+      0.181,
+      0.847
+    ],
+    "swatch_chapter": 4,
+    "combinations": [
+      8,
+      15,
+      159,
+      177,
+      218,
+      248,
+      307
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Grayish Lavender - B",
+    "hex": "#c0a9b3",
+    "rgb": [
+      192,
+      169,
+      179
+    ],
+    "cmyk": [
+      25,
+      33,
+      20,
+      0
+    ],
+    "lab": [
+      71.35,
+      10.05,
+      -2.21
+    ],
+    "relative_luminance": 0.4284,
+    "tone": "Mid Light",
+    "hue_category": "Neutral Gray/Slate",
+    "warmth": "Neutral",
+    "hsv": [
+      333.9,
+      0.12,
+      0.753
+    ],
+    "swatch_chapter": 4,
+    "combinations": [
+      47,
+      56,
+      174,
+      187,
+      235,
+      327,
+      329,
+      338
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Laelia Pink",
+    "hex": "#ca92a8",
+    "rgb": [
+      202,
+      146,
+      168
+    ],
+    "cmyk": [
+      20,
+      48,
+      18,
+      0
+    ],
+    "lab": [
+      66.52,
+      24.31,
+      -2.66
+    ],
+    "relative_luminance": 0.3594,
+    "tone": "Mid Light",
+    "hue_category": "Magenta / Rose / Pink",
+    "warmth": "Warm",
+    "hsv": [
+      336.4,
+      0.277,
+      0.792
+    ],
+    "swatch_chapter": 4,
+    "combinations": [
+      20,
+      254,
+      280,
+      337
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Lilac",
+    "hex": "#b984af",
+    "rgb": [
+      185,
+      132,
+      175
+    ],
+    "cmyk": [
+      28,
+      54,
+      8,
+      0
+    ],
+    "lab": [
+      61.53,
+      25.92,
+      -14.25
+    ],
+    "relative_luminance": 0.2991,
+    "tone": "Mid Dark",
+    "hue_category": "Violet / Purple / Plum",
+    "warmth": "Warm",
+    "hsv": [
+      311.3,
+      0.286,
+      0.725
+    ],
+    "swatch_chapter": 4,
+    "combinations": [
+      143,
+      162,
+      282,
+      347
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Eupatorium Purple",
+    "hex": "#bf5892",
+    "rgb": [
+      191,
+      88,
+      146
+    ],
+    "cmyk": [
+      25,
+      79,
+      12,
+      0
+    ],
+    "lab": [
+      52.25,
+      46.71,
+      -11.72
+    ],
+    "relative_luminance": 0.2013,
+    "tone": "Mid Dark",
+    "hue_category": "Magenta / Rose / Pink",
+    "warmth": "Warm",
+    "hsv": [
+      326.2,
+      0.539,
+      0.749
+    ],
+    "swatch_chapter": 4,
+    "combinations": [
+      215,
+      315,
+      322
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Light Mauve",
+    "hex": "#9a72aa",
+    "rgb": [
+      154,
+      114,
+      170
+    ],
+    "cmyk": [
+      43,
+      62,
+      5,
+      0
+    ],
+    "lab": [
+      53.64,
+      23.9,
+      -23.98
+    ],
+    "relative_luminance": 0.2181,
+    "tone": "Mid Dark",
+    "hue_category": "Violet / Purple / Plum",
+    "warmth": "Cool",
+    "hsv": [
+      282.9,
+      0.329,
+      0.667
+    ],
+    "swatch_chapter": 4,
+    "combinations": [
+      23,
+      80,
+      128,
+      134,
+      180,
+      274,
+      331
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Aconite Violet",
+    "hex": "#a36aa5",
+    "rgb": [
+      163,
+      106,
+      165
+    ],
+    "cmyk": [
+      39,
+      68,
+      5,
+      0
+    ],
+    "lab": [
+      52.67,
+      30.7,
+      -22.37
+    ],
+    "relative_luminance": 0.2081,
+    "tone": "Mid Dark",
+    "hue_category": "Violet / Purple / Plum",
+    "warmth": "Warm",
+    "hsv": [
+      298.0,
+      0.358,
+      0.647
+    ],
+    "swatch_chapter": 4,
+    "combinations": [
+      43,
+      64,
+      90,
+      187,
+      220,
+      257,
+      269,
+      301,
+      307,
+      324,
+      344
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Dull Blue Violet",
+    "hex": "#80719e",
+    "rgb": [
+      128,
+      113,
+      158
+    ],
+    "cmyk": [
+      57,
+      60,
+      17,
+      0
+    ],
+    "lab": [
+      50.22,
+      13.38,
+      -22.46
+    ],
+    "relative_luminance": 0.1887,
+    "tone": "Mid Dark",
+    "hue_category": "Violet / Purple / Plum",
+    "warmth": "Cool",
+    "hsv": [
+      260.0,
+      0.285,
+      0.62
+    ],
+    "swatch_chapter": 4,
+    "combinations": [
+      9,
+      100
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Dark Soft Violet",
+    "hex": "#66629c",
+    "rgb": [
+      102,
+      98,
+      156
+    ],
+    "cmyk": [
+      70,
+      68,
+      13,
+      0
+    ],
+    "lab": [
+      44.0,
+      12.35,
+      -31.17
+    ],
+    "relative_luminance": 0.1396,
+    "tone": "Deep Dark",
+    "hue_category": "Blue / Cobalt / Indigo",
+    "warmth": "Cool",
+    "hsv": [
+      244.1,
+      0.372,
+      0.612
+    ],
+    "swatch_chapter": 4,
+    "combinations": [
+      64,
+      127,
+      197
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Blue Violet",
+    "hex": "#6450a1",
+    "rgb": [
+      100,
+      80,
+      161
+    ],
+    "cmyk": [
+      72,
+      80,
+      0,
+      0
+    ],
+    "lab": [
+      39.12,
+      23.57,
+      -41.91
+    ],
+    "relative_luminance": 0.1102,
+    "tone": "Deep Dark",
+    "hue_category": "Blue / Cobalt / Indigo",
+    "warmth": "Cool",
+    "hsv": [
+      254.8,
+      0.503,
+      0.631
+    ],
+    "swatch_chapter": 4,
+    "combinations": [
+      116,
+      175,
+      196,
+      322,
+      345
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Purple Drab",
+    "hex": "#84565b",
+    "rgb": [
+      132,
+      86,
+      91
+    ],
+    "cmyk": [
+      38,
+      65,
+      49,
+      26
+    ],
+    "lab": [
+      41.87,
+      19.87,
+      5.56
+    ],
+    "relative_luminance": 0.1232,
+    "tone": "Deep Dark",
+    "hue_category": "Red / Crimson",
+    "warmth": "Warm",
+    "hsv": [
+      353.5,
+      0.348,
+      0.518
+    ],
+    "swatch_chapter": 4,
+    "combinations": [
+      236
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Deep Violet / Plumbeous",
+    "hex": "#70727c",
+    "rgb": [
+      112,
+      114,
+      124
+    ],
+    "cmyk": [
+      61,
+      52,
+      43,
+      7
+    ],
+    "lab": [
+      48.03,
+      0.79,
+      -5.91
+    ],
+    "relative_luminance": 0.1693,
+    "tone": "Mid Dark",
+    "hue_category": "Neutral Gray/Slate",
+    "warmth": "Neutral",
+    "hsv": [
+      230.0,
+      0.097,
+      0.486
+    ],
+    "swatch_chapter": 4,
+    "combinations": [
+      183,
+      192,
+      218
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Veronia Purple",
+    "hex": "#8c4c62",
+    "rgb": [
+      140,
+      76,
+      98
+    ],
+    "cmyk": [
+      42,
+      78,
+      46,
+      15
+    ],
+    "lab": [
+      40.98,
+      29.56,
+      0.13
+    ],
+    "relative_luminance": 0.1163,
+    "tone": "Deep Dark",
+    "hue_category": "Magenta / Rose / Pink",
+    "warmth": "Warm",
+    "hsv": [
+      339.4,
+      0.457,
+      0.549
+    ],
+    "swatch_chapter": 4,
+    "combinations": [
+      13,
+      24,
+      168,
+      183
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Dark Slate Purple",
+    "hex": "#704357",
+    "rgb": [
+      112,
+      67,
+      87
+    ],
+    "cmyk": [
+      64,
+      85,
+      60,
+      10
+    ],
+    "lab": [
+      34.31,
+      22.22,
+      -3.55
+    ],
+    "relative_luminance": 0.0815,
+    "tone": "Deep Dark",
+    "hue_category": "Magenta / Rose / Pink",
+    "warmth": "Warm",
+    "hsv": [
+      333.3,
+      0.402,
+      0.439
+    ],
+    "swatch_chapter": 4,
+    "combinations": [
+      225,
+      248
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Taupe Brown",
+    "hex": "#7a4456",
+    "rgb": [
+      122,
+      68,
+      86
+    ],
+    "cmyk": [
+      30,
+      70,
+      35,
+      40
+    ],
+    "lab": [
+      36.17,
+      25.64,
+      0.06
+    ],
+    "relative_luminance": 0.0894,
+    "tone": "Deep Dark",
+    "hue_category": "Magenta / Rose / Pink",
+    "warmth": "Warm",
+    "hsv": [
+      340.0,
+      0.443,
+      0.478
+    ],
+    "swatch_chapter": 4,
+    "combinations": [
+      57,
+      123,
+      174,
+      224,
+      275,
+      280,
+      288
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Violet Carmine",
+    "hex": "#713b4c",
+    "rgb": [
+      113,
+      59,
+      76
+    ],
+    "cmyk": [
+      64,
+      90,
+      70,
+      10
+    ],
+    "lab": [
+      32.3,
+      25.87,
+      0.82
+    ],
+    "relative_luminance": 0.0716,
+    "tone": "Deep Dark",
+    "hue_category": "Magenta / Rose / Pink",
+    "warmth": "Warm",
+    "hsv": [
+      341.1,
+      0.478,
+      0.443
+    ],
+    "swatch_chapter": 4,
+    "combinations": [
+      337
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Violet",
+    "hex": "#4f4086",
+    "rgb": [
+      79,
+      64,
+      134
+    ],
+    "cmyk": [
+      85,
+      90,
+      18,
+      0
+    ],
+    "lab": [
+      31.49,
+      20.67,
+      -37.93
+    ],
+    "relative_luminance": 0.0705,
+    "tone": "Deep Dark",
+    "hue_category": "Blue / Cobalt / Indigo",
+    "warmth": "Cool",
+    "hsv": [
+      252.9,
+      0.522,
+      0.525
+    ],
+    "swatch_chapter": 4,
+    "combinations": [
+      42,
+      56,
+      130,
+      156,
+      164,
+      181,
+      205,
+      214,
+      226,
+      316,
+      331,
+      335
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Red Violet",
+    "hex": "#59256a",
+    "rgb": [
+      89,
+      37,
+      106
+    ],
+    "cmyk": [
+      76,
+      100,
+      25,
+      15
+    ],
+    "lab": [
+      25.05,
+      33.11,
+      -30.06
+    ],
+    "relative_luminance": 0.0449,
+    "tone": "Deep Dark",
+    "hue_category": "Violet / Purple / Plum",
+    "warmth": "Cool",
+    "hsv": [
+      285.2,
+      0.651,
+      0.416
+    ],
+    "swatch_chapter": 4,
+    "combinations": [
+      4,
+      37,
+      134,
+      136,
+      170,
+      172,
+      183,
+      316
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Cotinga Purple",
+    "hex": "#501345",
+    "rgb": [
+      80,
+      19,
+      69
+    ],
+    "cmyk": [
+      66,
+      100,
+      42,
+      40
+    ],
+    "lab": [
+      18.4,
+      32.86,
+      -15.76
+    ],
+    "relative_luminance": 0.026,
+    "tone": "Deep Dark",
+    "hue_category": "Violet / Purple / Plum",
+    "warmth": "Warm",
+    "hsv": [
+      310.8,
+      0.762,
+      0.314
+    ],
+    "swatch_chapter": 4,
+    "combinations": [
+      61,
+      181,
+      238,
+      253,
+      307,
+      329,
+      348
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Dusky Madder Violet",
+    "hex": "#4e1d4c",
+    "rgb": [
+      78,
+      29,
+      76
+    ],
+    "cmyk": [
+      75,
+      100,
+      46,
+      30
+    ],
+    "lab": [
+      20.1,
+      28.65,
+      -18.26
+    ],
+    "relative_luminance": 0.0302,
+    "tone": "Deep Dark",
+    "hue_category": "Violet / Purple / Plum",
+    "warmth": "Warm",
+    "hsv": [
+      302.4,
+      0.628,
+      0.306
+    ],
+    "swatch_chapter": 4,
+    "combinations": [
+      18,
+      50,
+      53,
+      82,
+      103,
+      314
+    ]
+  },
+  {
+    "id": 153,
+    "name": "White",
+    "hex": "#ffffff",
+    "rgb": [
+      255,
+      255,
+      255
+    ],
+    "cmyk": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "lab": [
+      100.0,
+      0.0,
+      0.0
+    ],
+    "relative_luminance": 1.0,
+    "tone": "Light / High-Luminance",
+    "hue_category": "Neutral Light",
+    "warmth": "Neutral",
+    "hsv": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "swatch_chapter": 5,
+    "combinations": [
+      55
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Neutral Gray",
+    "hex": "#b6bfc1",
+    "rgb": [
+      182,
+      191,
+      193
+    ],
+    "cmyk": [
+      29,
+      18,
+      20,
+      0
+    ],
+    "lab": [
+      76.75,
+      -3.03,
+      -2.03
+    ],
+    "relative_luminance": 0.5106,
+    "tone": "Mid Light",
+    "hue_category": "Neutral Gray/Slate",
+    "warmth": "Neutral",
+    "hsv": [
+      190.9,
+      0.057,
+      0.757
+    ],
+    "swatch_chapter": 5,
+    "combinations": [
+      34,
+      139,
+      180,
+      195,
+      197,
+      221,
+      228,
+      229,
+      273,
+      303,
+      324,
+      340
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Mineral Gray",
+    "hex": "#a2b0ad",
+    "rgb": [
+      162,
+      176,
+      173
+    ],
+    "cmyk": [
+      33,
+      18,
+      25,
+      7
+    ],
+    "lab": [
+      70.75,
+      -5.62,
+      -0.1
+    ],
+    "relative_luminance": 0.4175,
+    "tone": "Mid Light",
+    "hue_category": "Neutral Gray/Slate",
+    "warmth": "Neutral",
+    "hsv": [
+      167.1,
+      0.08,
+      0.69
+    ],
+    "swatch_chapter": 5,
+    "combinations": [
+      11,
+      30
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Warm Gray",
+    "hex": "#a1a39a",
+    "rgb": [
+      161,
+      163,
+      154
+    ],
+    "cmyk": [
+      37,
+      28,
+      36,
+      3
+    ],
+    "lab": [
+      66.75,
+      -2.25,
+      4.74
+    ],
+    "relative_luminance": 0.361,
+    "tone": "Mid Light",
+    "hue_category": "Neutral Gray/Slate",
+    "warmth": "Neutral",
+    "hsv": [
+      73.3,
+      0.055,
+      0.639
+    ],
+    "swatch_chapter": 5,
+    "combinations": [
+      69,
+      76,
+      81,
+      143,
+      169,
+      238,
+      259,
+      261
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Slate Color",
+    "hex": "#34454c",
+    "rgb": [
+      52,
+      69,
+      76
+    ],
+    "cmyk": [
+      85,
+      70,
+      62,
+      30
+    ],
+    "lab": [
+      27.85,
+      -5.39,
+      -6.97
+    ],
+    "relative_luminance": 0.0551,
+    "tone": "Deep Dark",
+    "hue_category": "Blue / Cobalt / Indigo",
+    "warmth": "Cool",
+    "hsv": [
+      197.5,
+      0.316,
+      0.298
+    ],
+    "swatch_chapter": 5,
+    "combinations": [
+      27,
+      33,
+      57,
+      140,
+      202,
+      243,
+      245,
+      251,
+      253,
+      263,
+      296,
+      329,
+      335
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Black",
+    "hex": "#111314",
+    "rgb": [
+      17,
+      19,
+      20
+    ],
+    "cmyk": [
+      20,
+      10,
+      15,
+      100
+    ],
+    "lab": [
+      5.63,
+      -0.4,
+      -1.12
+    ],
+    "relative_luminance": 0.0064,
+    "tone": "Deep Dark",
+    "hue_category": "Blue / Cobalt / Indigo",
+    "warmth": "Cool",
+    "hsv": [
+      200.0,
+      0.15,
+      0.078
+    ],
+    "swatch_chapter": 5,
+    "combinations": [
+      46,
+      52,
+      62,
+      69,
+      112,
+      117,
+      144,
+      190,
+      207,
+      216,
+      221,
+      242,
+      255,
+      256,
+      269,
+      276,
+      288,
+      298,
+      313,
+      323,
+      337,
+      340,
+      344
+    ]
+  }
+]

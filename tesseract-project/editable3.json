@@ -1,0 +1,632 @@
+{
+  "$schema": "https://jerboa.dev/schemas/fx-composition/editable/v1/document.schema.json",
+  "formatVersion": 1,
+  "dimensions": {
+    "width": 1080,
+    "height": 1920
+  },
+  "duration": 35.0,
+  "composition": {
+    "id": "main",
+    "name": "Main",
+    "layers": [
+      {
+        "type": "Text",
+        "id": 31,
+        "name": "Outro Text",
+        "activeRange": {
+          "start": 25000,
+          "duration": 10000
+        },
+        "sourceText": {
+          "text": "READY TO ELEVATE?\nLET'S BUILD.",
+          "fontFamily": "FreeSans",
+          "fontStyle": "Bold",
+          "fontSize": 90,
+          "fillColor": [
+            1,
+            0.8,
+            0,
+            1
+          ],
+          "justification": "center",
+          "boxText": true,
+          "boxPosition": [
+            0.0,
+            0.0
+          ],
+          "boxSize": [
+            900,
+            300
+          ]
+        },
+        "transform": {
+          "anchorPoint": [
+            0.0,
+            0.0
+          ],
+          "position": [
+            90,
+            1300
+          ],
+          "scale": [
+            100.0,
+            100.0
+          ],
+          "rotation": 0.0,
+          "opacity": 100.0
+        }
+      },
+      {
+        "type": "Image",
+        "id": 30,
+        "name": "Outro Image",
+        "activeRange": {
+          "start": 25000,
+          "duration": 10000
+        },
+        "source": {
+          "assetId": "pose-1",
+          "fit": "contain"
+        },
+        "transform": {
+          "anchorPoint": [
+            0.0,
+            0.0
+          ],
+          "position": [
+            0,
+            400
+          ],
+          "scale": [
+            100,
+            100
+          ],
+          "rotation": 0.0,
+          "opacity": 100.0
+        }
+      },
+      {
+        "type": "Text",
+        "id": 19,
+        "name": "Power Text 19",
+        "activeRange": {
+          "start": 21000,
+          "duration": 4000
+        },
+        "sourceText": {
+          "text": "VISUAL\nSTORYTELLING",
+          "fontFamily": "FreeSans",
+          "fontStyle": "Bold",
+          "fontSize": 120,
+          "fillColor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "justification": "center",
+          "boxText": true,
+          "boxPosition": [
+            0.0,
+            0.0
+          ],
+          "boxSize": [
+            900,
+            300
+          ]
+        },
+        "transform": {
+          "anchorPoint": [
+            0.0,
+            0.0
+          ],
+          "position": [
+            90,
+            200
+          ],
+          "scale": [
+            100.0,
+            100.0
+          ],
+          "rotation": 0.0,
+          "opacity": 100.0
+        }
+      },
+      {
+        "type": "Image",
+        "id": 18,
+        "name": "Power Image 18",
+        "activeRange": {
+          "start": 21000,
+          "duration": 4000
+        },
+        "source": {
+          "assetId": "pose-0",
+          "fit": "contain"
+        },
+        "transform": {
+          "anchorPoint": [
+            0.0,
+            0.0
+          ],
+          "position": [
+            0,
+            400
+          ],
+          "scale": [
+            100,
+            100
+          ],
+          "rotation": 0.0,
+          "opacity": 100.0
+        }
+      },
+      {
+        "type": "Text",
+        "id": 17,
+        "name": "Power Text 17",
+        "activeRange": {
+          "start": 17000,
+          "duration": 4000
+        },
+        "sourceText": {
+          "text": "FILM\nEMULATION",
+          "fontFamily": "FreeSans",
+          "fontStyle": "Bold",
+          "fontSize": 120,
+          "fillColor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "justification": "center",
+          "boxText": true,
+          "boxPosition": [
+            0.0,
+            0.0
+          ],
+          "boxSize": [
+            900,
+            300
+          ]
+        },
+        "transform": {
+          "anchorPoint": [
+            0.0,
+            0.0
+          ],
+          "position": [
+            90,
+            200
+          ],
+          "scale": [
+            100.0,
+            100.0
+          ],
+          "rotation": 0.0,
+          "opacity": 100.0
+        }
+      },
+      {
+        "type": "Image",
+        "id": 16,
+        "name": "Power Image 16",
+        "activeRange": {
+          "start": 17000,
+          "duration": 4000
+        },
+        "source": {
+          "assetId": "pose-4",
+          "fit": "contain"
+        },
+        "transform": {
+          "anchorPoint": [
+            0.0,
+            0.0
+          ],
+          "position": [
+            0,
+            400
+          ],
+          "scale": [
+            100,
+            100
+          ],
+          "rotation": 0.0,
+          "opacity": 100.0
+        }
+      },
+      {
+        "type": "Text",
+        "id": 15,
+        "name": "Power Text 15",
+        "activeRange": {
+          "start": 13000,
+          "duration": 4000
+        },
+        "sourceText": {
+          "text": "HIGH-END\nMOTION FX",
+          "fontFamily": "FreeSans",
+          "fontStyle": "Bold",
+          "fontSize": 120,
+          "fillColor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "justification": "center",
+          "boxText": true,
+          "boxPosition": [
+            0.0,
+            0.0
+          ],
+          "boxSize": [
+            900,
+            300
+          ]
+        },
+        "transform": {
+          "anchorPoint": [
+            0.0,
+            0.0
+          ],
+          "position": [
+            90,
+            200
+          ],
+          "scale": [
+            100.0,
+            100.0
+          ],
+          "rotation": 0.0,
+          "opacity": 100.0
+        }
+      },
+      {
+        "type": "Image",
+        "id": 14,
+        "name": "Power Image 14",
+        "activeRange": {
+          "start": 13000,
+          "duration": 4000
+        },
+        "source": {
+          "assetId": "pose-3",
+          "fit": "contain"
+        },
+        "transform": {
+          "anchorPoint": [
+            0.0,
+            0.0
+          ],
+          "position": [
+            0,
+            400
+          ],
+          "scale": [
+            100,
+            100
+          ],
+          "rotation": 0.0,
+          "opacity": 100.0
+        }
+      },
+      {
+        "type": "Text",
+        "id": 13,
+        "name": "Power Text 13",
+        "activeRange": {
+          "start": 9000,
+          "duration": 4000
+        },
+        "sourceText": {
+          "text": "AUDITORY\nRHYTHM",
+          "fontFamily": "FreeSans",
+          "fontStyle": "Bold",
+          "fontSize": 120,
+          "fillColor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "justification": "center",
+          "boxText": true,
+          "boxPosition": [
+            0.0,
+            0.0
+          ],
+          "boxSize": [
+            900,
+            300
+          ]
+        },
+        "transform": {
+          "anchorPoint": [
+            0.0,
+            0.0
+          ],
+          "position": [
+            90,
+            200
+          ],
+          "scale": [
+            100.0,
+            100.0
+          ],
+          "rotation": 0.0,
+          "opacity": 100.0
+        }
+      },
+      {
+        "type": "Image",
+        "id": 12,
+        "name": "Power Image 12",
+        "activeRange": {
+          "start": 9000,
+          "duration": 4000
+        },
+        "source": {
+          "assetId": "pose-2",
+          "fit": "contain"
+        },
+        "transform": {
+          "anchorPoint": [
+            0.0,
+            0.0
+          ],
+          "position": [
+            0,
+            400
+          ],
+          "scale": [
+            100,
+            100
+          ],
+          "rotation": 0.0,
+          "opacity": 100.0
+        }
+      },
+      {
+        "type": "Text",
+        "id": 11,
+        "name": "Power Text 11",
+        "activeRange": {
+          "start": 5000,
+          "duration": 4000
+        },
+        "sourceText": {
+          "text": "RETENTION",
+          "fontFamily": "FreeSans",
+          "fontStyle": "Bold",
+          "fontSize": 120,
+          "fillColor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "justification": "center",
+          "boxText": true,
+          "boxPosition": [
+            0.0,
+            0.0
+          ],
+          "boxSize": [
+            900,
+            300
+          ]
+        },
+        "transform": {
+          "anchorPoint": [
+            0.0,
+            0.0
+          ],
+          "position": [
+            90,
+            200
+          ],
+          "scale": [
+            100.0,
+            100.0
+          ],
+          "rotation": 0.0,
+          "opacity": 100.0
+        }
+      },
+      {
+        "type": "Image",
+        "id": 10,
+        "name": "Power Image 10",
+        "activeRange": {
+          "start": 5000,
+          "duration": 4000
+        },
+        "source": {
+          "assetId": "pose-1",
+          "fit": "contain"
+        },
+        "transform": {
+          "anchorPoint": [
+            0.0,
+            0.0
+          ],
+          "position": [
+            0,
+            400
+          ],
+          "scale": [
+            100,
+            100
+          ],
+          "rotation": 0.0,
+          "opacity": 100.0
+        }
+      },
+      {
+        "type": "Text",
+        "id": 3,
+        "name": "Text 2",
+        "activeRange": {
+          "start": 2500,
+          "duration": 2500
+        },
+        "sourceText": {
+          "text": "MEET THE\nCREATIVE\nARCHITECT",
+          "fontFamily": "FreeSans",
+          "fontStyle": "Bold",
+          "fontSize": 110,
+          "fillColor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "justification": "center",
+          "boxText": true,
+          "boxPosition": [
+            0.0,
+            0.0
+          ],
+          "boxSize": [
+            900,
+            400
+          ]
+        },
+        "transform": {
+          "anchorPoint": [
+            0.0,
+            0.0
+          ],
+          "position": [
+            90,
+            200
+          ],
+          "scale": [
+            100.0,
+            100.0
+          ],
+          "rotation": 0.0,
+          "opacity": 100.0
+        }
+      },
+      {
+        "type": "Text",
+        "id": 2,
+        "name": "Text 1",
+        "activeRange": {
+          "start": 0,
+          "duration": 2500
+        },
+        "sourceText": {
+          "text": "THE INDUSTRY\nIS BROKEN",
+          "fontFamily": "FreeSans",
+          "fontStyle": "Bold",
+          "fontSize": 100,
+          "fillColor": [
+            1,
+            0,
+            0.4,
+            1
+          ],
+          "justification": "center",
+          "boxText": true,
+          "boxPosition": [
+            0.0,
+            0.0
+          ],
+          "boxSize": [
+            900,
+            300
+          ]
+        },
+        "transform": {
+          "anchorPoint": [
+            0.0,
+            0.0
+          ],
+          "position": [
+            90,
+            200
+          ],
+          "scale": [
+            100.0,
+            100.0
+          ],
+          "rotation": 0.0,
+          "opacity": 100.0
+        }
+      },
+      {
+        "type": "Image",
+        "id": 1,
+        "name": "Pose 0",
+        "activeRange": {
+          "start": 0,
+          "duration": 5000
+        },
+        "source": {
+          "assetId": "pose-0",
+          "fit": "contain"
+        },
+        "transform": {
+          "anchorPoint": [
+            0.0,
+            0.0
+          ],
+          "position": [
+            0,
+            400
+          ],
+          "scale": [
+            120,
+            120
+          ],
+          "rotation": 0.0,
+          "opacity": 100.0
+        }
+      },
+      {
+        "type": "Rect",
+        "id": 100,
+        "name": "Background",
+        "activeRange": {
+          "start": 0,
+          "duration": 35000
+        },
+        "rect": {
+          "fillColor": [
+            0.05,
+            0.05,
+            0.05,
+            1.0
+          ],
+          "size": [
+            1080.0,
+            1920.0
+          ],
+          "fillEnabled": true
+        },
+        "transform": {
+          "anchorPoint": [
+            0.0,
+            0.0
+          ],
+          "position": [
+            0.0,
+            0.0
+          ],
+          "scale": [
+            100.0,
+            100.0
+          ],
+          "rotation": 0.0,
+          "opacity": 100.0
+        }
+      }
+    ]
+  }
+}

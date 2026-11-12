@@ -1,0 +1,116 @@
+{
+  "title": "The Monty Hall Engine",
+  "total_duration": 202.08,
+  "total_minutes": 3.37,
+  "beat_count": 18,
+  "beats": [
+    {
+      "id": 1,
+      "file": "audio/vo/beat_01.mp3",
+      "duration": 15.6,
+      "caption_text": "10,000 ANGRY PH.D.S"
+    },
+    {
+      "id": 2,
+      "file": "audio/vo/beat_02.mp3",
+      "duration": 10.63,
+      "caption_text": null
+    },
+    {
+      "id": 3,
+      "file": "audio/vo/beat_03.mp3",
+      "duration": 10.75,
+      "caption_text": "3 DOORS // 1 CAR"
+    },
+    {
+      "id": 4,
+      "file": "audio/vo/beat_04.mp3",
+      "duration": 11.5,
+      "caption_text": "DOOR 1: 33% // DOORS 2&3: 67%"
+    },
+    {
+      "id": 5,
+      "file": "audio/vo/beat_05.mp3",
+      "duration": 9.98,
+      "caption_text": "GOAT REVEALED"
+    },
+    {
+      "id": 6,
+      "file": "audio/vo/beat_06.mp3",
+      "duration": 9.46,
+      "caption_text": "DO YOU SWITCH?"
+    },
+    {
+      "id": 7,
+      "file": "audio/vo/beat_07.mp3",
+      "duration": 9.05,
+      "caption_text": "THE 50/50 TRAP"
+    },
+    {
+      "id": 8,
+      "file": "audio/vo/beat_08.mp3",
+      "duration": 9.84,
+      "caption_text": "STAY: 33% // SWITCH: 67%"
+    },
+    {
+      "id": 9,
+      "file": "audio/vo/beat_09.mp3",
+      "duration": 12.67,
+      "caption_text": "'YOU BLEW IT!'"
+    },
+    {
+      "id": 10,
+      "file": "audio/vo/beat_10.mp3",
+      "duration": 11.98,
+      "caption_text": "NOT A RANDOM ACTION"
+    },
+    {
+      "id": 11,
+      "file": "audio/vo/beat_11.mp3",
+      "duration": 12.34,
+      "caption_text": "1,000 DOORS"
+    },
+    {
+      "id": 12,
+      "file": "audio/vo/beat_12.mp3",
+      "duration": 11.18,
+      "caption_text": "998 GOATS REVEALED"
+    },
+    {
+      "id": 13,
+      "file": "audio/vo/beat_13.mp3",
+      "duration": 12.17,
+      "caption_text": "PROBABILITY FUNNEL: 99.9%"
+    },
+    {
+      "id": 14,
+      "file": "audio/vo/beat_14.mp3",
+      "duration": 13.1,
+      "caption_text": "EQUIPARTITION FALLACY"
+    },
+    {
+      "id": 15,
+      "file": "audio/vo/beat_15.mp3",
+      "duration": 10.51,
+      "caption_text": "LOSS AVERSION BIAS"
+    },
+    {
+      "id": 16,
+      "file": "audio/vo/beat_16.mp3",
+      "duration": 10.61,
+      "caption_text": "THE BLIND HOST TWIST"
+    },
+    {
+      "id": 17,
+      "file": "audio/vo/beat_17.mp3",
+      "duration": 10.03,
+      "caption_text": "INFORMATION IS REALITY"
+    },
+    {
+      "id": 18,
+      "file": "audio/vo/beat_18.mp3",
+      "duration": 10.68,
+      "caption_text": "ALWAYS SWITCH"
+    }
+  ]
+}

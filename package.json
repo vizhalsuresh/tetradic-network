@@ -1,0 +1,33 @@
+{
+  "name": "video",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "remotion preview src/index.ts",
+    "build": "tsc --noEmit",
+    "render:bumper": "remotion render src/index.ts StationBumper-16x9 out/station_bumper.mp4",
+    "render:bumper-vertical": "remotion render src/index.ts StationBumper-9x16 out/station_bumper_vertical.mp4",
+    "render:legacy": "remotion render src/index.ts CreativeArchitectReel out/creative_architect.mp4",
+    "episode:new": "node scripts/new-episode.js",
+    "upload:youtube": "python3 scripts/youtube/upload_to_youtube.py",
+    "upload:check": "python3 scripts/youtube/check_youtube_setup.py",
+    "color": "python3 .agents/skills/sanzo-wada-colorist/scripts/query_palette.py",
+    "tech": "python3 .agents/skills/channel-cto/scripts/query_tech.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@remotion/cli": "^4.0.528",
+    "@remotion/google-fonts": "^4.0.528",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "lucide-react": "^1.48.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "remotion": "^4.0.528",
+    "typescript": "^7.0.2"
+  }
+}

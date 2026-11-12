@@ -1,0 +1,134 @@
+{
+  "title": "The Monty Hall Engine",
+  "topic": "The Monty Hall Problem, Marilyn vos Savant, Bayesian probability update, and the mathematical engine of counter-intuitive choice",
+  "style_seed": "editorial film noir collage, deep charcoal paper textures, vintage 1970s game show doors with white sticker borders, halftone goats and sports cars, newspaper headline typography, piercing acid yellow accents",
+  "accent_color": "#FAEA48",
+  "beats": [
+    {
+      "id": 1,
+      "narration": "In 1990, ten thousand mathematicians—including nearly a thousand with PhDs—wrote furious letters to a magazine columnist, accusing her of being mathematically illiterate. The funny thing was, she was completely right.",
+      "visual": "Stack of vintage angry typed letters with red stamps reading MATHEMATICAL FOOL!, archival portrait cutout of Marilyn vos Savant with white sticker border, bold newspaper headline in Parade magazine",
+      "caption_text": "10,000 ANGRY PH.D.S",
+      "motion": "slow push-in on Marilyn vos Savant portrait, angry letters drop onto desk with gentle settle"
+    },
+    {
+      "id": 2,
+      "narration": "To understand how the smartest minds on the planet humiliated themselves over a simple puzzle, you have to walk onto the stage of a 1970s game show.",
+      "visual": "Vintage 1970s game show stage set in film noir paper collage, retro studio lights, halftone studio audience silhouettes, stage sign reading LET'S MAKE A DEAL in retro marquee typography",
+      "caption_text": null,
+      "motion": "camera pans across the vintage studio lights, audience silhouettes drift slightly"
+    },
+    {
+      "id": 3,
+      "narration": "The show is Let's Make a Deal, hosted by Monty Hall. In front of you stand three closed doors. Behind one door is a brand new sports car. Behind the other two: goats.",
+      "visual": "Three tall wooden game show doors numbered 1, 2, and 3 with white sticker borders, cutouts of two comedic halftone goats and one sleek red sports car hovering above their respective hiding spots",
+      "caption_text": "3 DOORS // 1 CAR",
+      "motion": "three doors slide into frame and settle, numbers 1, 2, 3 illuminate in acid yellow"
+    },
+    {
+      "id": 4,
+      "narration": "You choose Door Number One. Your odds of picking the car right now are exactly one in three, or thirty-three percent. The other two doors hold a combined sixty-seven percent chance.",
+      "visual": "Contestant silhouette points to Door 1, marked with a bright yellow selection ring and label 1/3 CHANCE (33%), while Door 2 and Door 3 are grouped under a bracket labeled 2/3 CHANCE (67%)",
+      "caption_text": "DOOR 1: 33% // DOORS 2&3: 67%",
+      "motion": "Door 1 highlights with bright acid yellow border, bracket over doors 2 and 3 pulses"
+    },
+    {
+      "id": 5,
+      "narration": "Before opening your door, Monty Hall—who knows exactly what is behind every door—steps in. He deliberately opens Door Number Three, revealing a bleating goat.",
+      "visual": "Archival paper cutout of host Monty Hall in a 70s plaid suit pointing at Door 3, which swings open to reveal a humorous halftone paper goat chewing on straw, soundwave lines emerging from its mouth",
+      "caption_text": "GOAT REVEALED",
+      "motion": "Door 3 swings open with paper flap perspective, goat cutout bounces slightly"
+    },
+    {
+      "id": 6,
+      "narration": "There are now two unopened doors left: Door One and Door Two. Monty turns to you with a smile and offers a choice: 'Do you want to switch to Door Number Two?'",
+      "visual": "Monty Hall leaning forward offering an outstretched hand, speech bubble reading DO YOU WANT TO SWITCH?, Door 1 and Door 2 standing side by side under dramatic spotlights",
+      "caption_text": "DO YOU SWITCH?",
+      "motion": "slow push-in on the two remaining closed doors, speech bubble scales up slightly"
+    },
+    {
+      "id": 7,
+      "narration": "Almost everyone's brain screams the same answer: it doesn't matter. Two doors remain, so the odds must be fifty-fifty. Why bother switching?",
+      "visual": "Diagram of human brain cross-section with a flashing error light reading 50/50 INTUITION, twin balance scale holding Door 1 and Door 2 in perfect even balance, chalk question mark",
+      "caption_text": "THE 50/50 TRAP",
+      "motion": "twin balance scale rocks slightly and centers, 50/50 text blinks with cautionary rhythm"
+    },
+    {
+      "id": 8,
+      "narration": "But intuition is dead wrong. If you stay with Door One, your odds remain one in three. If you switch to Door Two, your odds instantly double to two in three.",
+      "visual": "The balance scale violently tips: Door 1 holds only a 33% weight, while Door 2 drops heavily with a massive 67% probability block glowing in bright acid yellow, bold winner badge",
+      "caption_text": "STAY: 33% // SWITCH: 67%",
+      "motion": "scale slams down to the right, 67% badge illuminates with explosive yellow particle glow"
+    },
+    {
+      "id": 9,
+      "narration": "When Marilyn vos Savant published this solution in Parade magazine, math professors mocked her. One wrote: 'You blew it! Since you seem to have difficulty, I will explain the fifty-fifty probability to you.'",
+      "visual": "Collage of real historical quote clippings from university professors attacking Marilyn, newspaper clippings with enraged underlines in red ink, an arrogant academic pen dripping ink",
+      "caption_text": "'YOU BLEW IT!'",
+      "motion": "newspaper letter clippings slide in from edges and overlap, red ink underlines draw across"
+    },
+    {
+      "id": 10,
+      "narration": "Here is the hidden trick our brains miss: Monty is not opening a door at random. His actions are constrained by information. He can never open the car, and he can never open your door.",
+      "visual": "Mechanical blueprint of Monty Hall's brain showing an algorithmic flow chart: IF CAR BEHIND DOOR -> DO NOT OPEN; IF CONTESTANT PICK -> DO NOT OPEN; forced selection arrow pointing to goat",
+      "caption_text": "NOT A RANDOM ACTION",
+      "motion": "algorithmic decision tree lights up step by step, forced constraint arrow flashes"
+    },
+    {
+      "id": 11,
+      "narration": "To see it clearly, imagine one thousand doors. You pick Door One. Your odds are one in a thousand. The remaining nine hundred and ninety-nine doors hold a ninety-nine point nine percent chance.",
+      "visual": "Vast grid of one thousand miniature doors rendered as a tiny paper mosaic, single Door 1 highlighted in tiny yellow square with label 1/1,000, while the remaining 999 doors glow in a vast blue bracket",
+      "caption_text": "1,000 DOORS",
+      "motion": "camera zooms through the miniature door mosaic, giant bracket groups the 999 doors"
+    },
+    {
+      "id": 12,
+      "narration": "Now Monty opens nine hundred and ninety-eight doors, showing nine hundred and ninety-eight goats, leaving only Door One and Door Seven Hundred and Seventy-Seven. Would you switch now?",
+      "visual": "All 998 doors fly open simultaneously revealing an ocean of bleating goats, leaving only Door 1 and Door 777 closed on the entire stage under twin blinding spotlights",
+      "caption_text": "998 GOATS REVEALED",
+      "motion": "wave of 998 doors flips open across the screen, camera snaps focus to Door 777"
+    },
+    {
+      "id": 13,
+      "narration": "Of course you would! Monty just did all the searching for you. He absorbed the ninety-nine point nine percent probability of all those doors and funneled it entirely into that single remaining door.",
+      "visual": "Luminous graphic funnel: glowing probability energy flowing out of the 998 open doors and compressing directly into Door 777, marked with a towering 99.9% PROBABILITY label",
+      "caption_text": "PROBABILITY FUNNEL: 99.9%",
+      "motion": "energy streams converge dynamically into Door 777, door outline glows with intense yellow"
+    },
+    {
+      "id": 14,
+      "narration": "But why do our brains fight this mathematical reality so aggressively? Psychologists call it the Equipartition Fallacy: the flawed assumption that because there are two options, they must have equal probability.",
+      "visual": "Psychological textbook diagram with paper cutout label reading EQUIPARTITION FALLACY, showing an optical illusion where two unequal shapes are mistakenly perceived as identical twins",
+      "caption_text": "EQUIPARTITION FALLACY",
+      "motion": "optical illusion geometry shifts back and forth between false symmetry and true asymmetry"
+    },
+    {
+      "id": 15,
+      "narration": "We also suffer from brutal loss aversion. Switching doors and losing the car feels twice as painful as staying and losing, so our irrational instincts freeze us in place.",
+      "visual": "Human silhouette holding its head in distress, cognitive bias meter showing REGRET IF SWITCH: 2X PAIN versus REGRET IF STAY: 1X PAIN, frozen lock mechanism clamped over Door 1",
+      "caption_text": "LOSS AVERSION BIAS",
+      "motion": "bias meter needle twitches into red danger zone, padlock snaps shut on Door 1"
+    },
+    {
+      "id": 16,
+      "narration": "And here is the subtle twist: if Monty did not know where the car was and opened a door completely at random without hitting the car, the odds truly would be fifty-fifty.",
+      "visual": "Alternative universe split-screen: Blindfolded Monty Hall throwing a dart at random doors; when Monty is blind, the probability updates symmetrically to 1/2 vs 1/2",
+      "caption_text": "THE BLIND HOST TWIST",
+      "motion": "split-screen slider reveals blindfolded host, balance scale evens out to 50/50"
+    },
+    {
+      "id": 17,
+      "narration": "Probability is not a fixed property of the physical world. It is a measurement of what you know. Information changes reality without touching a single molecule.",
+      "visual": "Philosophical mathematical collage: Bayes' Theorem formula P(A|B) glowing in acid yellow across an abstract textured paper universe, paper letters of the word INFORMATION transforming into physical light",
+      "caption_text": "INFORMATION IS REALITY",
+      "motion": "Bayes formula strokes draw on smoothly, ambient paper textures shimmer gently"
+    },
+    {
+      "id": 18,
+      "narration": "The universe is constantly opening doors to reveal goats. The question is whether you will cling to your first gut choice, or have the courage to switch when the math tells you to move.",
+      "visual": "Wide cinematic shot: Door 2 slowly swinging wide open, casting a golden light beam across the dark studio floor, revealing the gleaming silhouette of the sports car under a banner reading ALWAYS SWITCH",
+      "caption_text": "ALWAYS SWITCH",
+      "motion": "Door 2 swings wide open, warm acid yellow light spills across the floor toward the camera"
+    }
+  ]
+}

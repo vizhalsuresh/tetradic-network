@@ -1,0 +1,1 @@
+[{"command": "document.open", "params": {"path": "out/broadcast/live_inspected.svg"}}, {"command": "select.all"}, {"command": "object.path.simplify", "params": {"level": 35, "cornerAngle": 30}}, {"command": "file.saveAs", "params": {"path": "out/broadcast/live_simplified.vectorcraft"}}, {"command": "file.export", "params": {"path": "out/broadcast/live_simplified.svg"}}]

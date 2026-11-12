@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "skills": {
+    "anidoodle": {
+      "source": "alexgreensh/anidoodle",
+      "sourceType": "github",
+      "skillPath": "skills/anidoodle/SKILL.md",
+      "computedHash": "e530fcab9ca1fa5935b920df9763cc5fa80ee8ff3479dc1ac3dbd1b8101c1cda"
+    },
+    "claude绘图": {
+      "source": "cloveric/claude-drawing-skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "cc2626f711c9604c5ec5c73c4e4cf01ef342a1899c2853f2adf1770dc6a9ced1"
+    },
+    "huashu-art-motion": {
+      "source": "alchaincyf/huashu-art-motion",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "daab11a942255cc897ce3a2b8801b6afebd287e5dc41def878c5dc7d6258d6e7"
+    },
+    "raea": {
+      "source": "shinyobjectz/raea",
+      "sourceType": "github",
+      "skillPath": "skills/skills/raea/SKILL.md",
+      "computedHash": "0f64c03a0a42f2fb4aee82c95c355a4ddcc42211e2dfa225a5b71853bf0fcfdf"
+    },
+    "tesseract-motion": {
+      "source": "mirage-hq/Tesseract",
+      "sourceType": "github",
+      "skillPath": "skills/tesseract-motion/SKILL.md",
+      "computedHash": "23d907f4f6c084397d91e93a12aa5b9d7c01245d646f2612cc57fc682c6d6a31"
+    },
+    "tesseract-video": {
+      "source": "mirage-hq/Tesseract",
+      "sourceType": "github",
+      "skillPath": "skills/tesseract-video/SKILL.md",
+      "computedHash": "280356f509c61c0eb0632c2fafe65e9c14f85f1ebf96d7c004b424001919ddd3"
+    },
+    "vox-explainer": {
+      "source": "CK42BB/vox-explainer-skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "314c39b1dde2cc211ea06adc15b63795e395688a7ad0707d346786e24521f761"
+    }
+  }
+}

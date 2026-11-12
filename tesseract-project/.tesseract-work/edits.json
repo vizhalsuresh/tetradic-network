@@ -1,0 +1,60 @@
+[
+  {
+    "type": "createFxRectLayer",
+    "compositionId": "main",
+    "layerId": 1,
+    "name": "Background",
+    "insertIndex": 0,
+    "activeRange": { "start": 0, "duration": 3000 },
+    "transform": { "anchorPoint": [0,0], "position": [0,0], "scale": [100,100], "rotation": 0, "opacity": 100 },
+    "rect": { "size": [1080, 1920], "fillColor": [0.05, 0.05, 0.05, 1] }
+  },
+  {
+    "type": "createFxTextLayer",
+    "compositionId": "main",
+    "layerId": 2,
+    "name": "Title",
+    "insertIndex": 0,
+    "activeRange": { "start": 0, "duration": 3000 },
+    "transform": { "anchorPoint": [0,0], "position": [90, 800], "scale": [100,100], "rotation": 0, "opacity": 100 },
+    "sourceText": {
+      "text": "CREATIVE\nARCHITECT",
+      "fontFamily": "FreeSans",
+      "fontStyle": "Bold",
+      "fontSize": 120,
+      "fillColor": [1, 1, 1, 1],
+      "justification": "center",
+      "boxText": true,
+      "boxPosition": [0,0],
+      "boxSize": [900, 300]
+    }
+  },
+  {
+    "type": "setFxPropertyAnimator",
+    "compositionId": "main",
+    "layerId": 2,
+    "property": "transformOpacity",
+    "animator": {
+      "type": "keyframes",
+      "keyframes": [
+        { "timeMs": 0, "value": 0, "easing": "easeInOut" },
+        { "timeMs": 1000, "value": 100, "easing": "easeInOut" },
+        { "timeMs": 2000, "value": 100, "easing": "easeInOut" },
+        { "timeMs": 3000, "value": 0, "easing": "easeInOut" }
+      ]
+    }
+  },
+  {
+    "type": "setFxPropertyAnimator",
+    "compositionId": "main",
+    "layerId": 2,
+    "property": "transformScale",
+    "animator": {
+      "type": "keyframes",
+      "keyframes": [
+        { "timeMs": 0, "value": [80, 80], "easing": "easeOut" },
+        { "timeMs": 3000, "value": [110, 110], "easing": "linear" }
+      ]
+    }
+  }
+]

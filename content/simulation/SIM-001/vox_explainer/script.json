@@ -1,0 +1,134 @@
+{
+  "title": "The Three-Body Catastrophe",
+  "topic": "The Three-Body Problem, Poincaré chaos theory, and the unstable future of our Solar System",
+  "style_seed": "editorial cosmic collage, deep obsidian paper grain backgrounds, halftone screen-print star fields, vector orbital paths with white sticker edges, washi tape labels, bright shockwave orange accents",
+  "accent_color": "#E65A28",
+  "beats": [
+    {
+      "id": 1,
+      "narration": "In the year 1687, Isaac Newton solved the clockwork of the cosmos. Give him the mass, position, and velocity of the Earth and the Sun, and he could predict their orbit forever.",
+      "visual": "Antique archival portrait cutout of Isaac Newton with white sticker border, flanked by a gold mathematical compass and a pristine two-body orbital ellipse diagram on textured obsidian paper",
+      "caption_text": "NEWTON: 1687",
+      "motion": "slow push-in on Newton portrait, gold orbital ellipse animates in smooth circular path"
+    },
+    {
+      "id": 2,
+      "narration": "But then Newton added a third object—the Moon. And the mathematics of our universe instantly broke into complete and unsolvable chaos.",
+      "visual": "A third celestial body with white sticker edge drops into the neat two-body orbit, instantly shattering the smooth ellipse into tangled, jagged orange trajectory lines, red warning label reading UNRESOLVED",
+      "caption_text": "THE THIRD BODY",
+      "motion": "third body drops in from above, clean orbits instantly tear apart into chaotic tangled vectors"
+    },
+    {
+      "id": 3,
+      "narration": "When two celestial bodies orbit each other, gravity is clean and predictable. Their path traces an exact, closed conic section—an ellipse that repeats identically for trillions of years without deviation.",
+      "visual": "Geometric diagram of two celestial spheres orbiting a shared center of mass (barycenter), golden Keplerian ellipse with focus points marked by neat crosshairs and mathematical formula labels",
+      "caption_text": "2 BODIES: SOLVED",
+      "motion": "two bodies orbit smoothly around barycenter, ellipse stroke glows with steady illumination"
+    },
+    {
+      "id": 4,
+      "narration": "But introduce just one more gravitational player—a third star or planet—and the equations collapse. There is no simple algebraic formula to calculate where three bodies will be in the distant future.",
+      "visual": "Chalkboard-style paper collage with Newton's gravitational equations crossed out by bold red chalk slash marks, three stars tugging each other with vibrating gravitational vector arrows in electric orange",
+      "caption_text": "NO GENERAL SOLUTION",
+      "motion": "gravitational vector arrows oscillate in length and direction, formula fragments drift apart"
+    },
+    {
+      "id": 5,
+      "narration": "In 1887, King Oscar the Second of Sweden offered a gold medal and two thousand five hundred kronor to anyone who could solve the Three-Body Problem once and for all.",
+      "visual": "Ornate Swedish royal decree document cutout with royal wax seal and gold medal illustration, newspaper clipping from Stockholm 1887 announcing the 2,500 KRONOR prize pinned with tape",
+      "caption_text": "KING'S PRIZE: 1887",
+      "motion": "slow push-in on royal gold medal, decree document settles onto paper background"
+    },
+    {
+      "id": 6,
+      "narration": "The French mathematician Henri Poincaré set out to win the prize. But as he crunched the orbital differential equations, he discovered something terrifying: the system possessed infinite geometric sensitivity.",
+      "visual": "Archival paper cutout of Henri Poincaré surrounded by swirling hand-calculated differential equations, Poincaré section phase space diagram revealing an intricate fractal web of non-repeating curves",
+      "caption_text": "POINCARÉ'S HORROR",
+      "motion": "Poincaré phase space curves slowly unfold and intertwine, revealing infinite geometric complexity"
+    },
+    {
+      "id": 7,
+      "narration": "Poincaré discovered mathematical chaos. Even if every law of physics is strictly deterministic, a microscopic change in starting coordinates cascades exponentially over time until all predictability completely evaporates.",
+      "visual": "Two nearly identical orbital trajectory lines starting from the same point, diverging exponentially into completely different regions of the star system, divergence distance delta callout in bright orange",
+      "caption_text": "DETERMINISTIC CHAOS",
+      "motion": "two lines trace together for two seconds, then suddenly split into wildly diverging trajectories"
+    },
+    {
+      "id": 8,
+      "narration": "Shift a star's position by less than the width of a single atom, and a billion years later, that star might collide with another or be violently thrown into deep space.",
+      "visual": "Macro diagram showing a microscopic atomic nucleus offset of 10^-10 METERS, transitioning across a split-panel timeline to a colossal cosmic collision with shockwave rings and ejecta fragments",
+      "caption_text": "1 ATOM = CATASTROPHE",
+      "motion": "extreme zoom out from tiny atom scale to planetary collision, shockwave ring expands"
+    },
+    {
+      "id": 9,
+      "narration": "Today, supercomputers solve the Three-Body Problem using brute-force numerical approximation. They slice time into tiny increments of seconds, calculating gravitational tugs step by agonizing step.",
+      "visual": "Modern computational grid overlaying the three bodies, digital coordinate ticks and Runge-Kutta numerical solver code fragments floating on paper tape, delta-t = 0.0016s telemetry badge",
+      "caption_text": "NUMERICAL STEPPING",
+      "motion": "simulation time steps pulse forward in rapid staccato increments, grid coordinates update"
+    },
+    {
+      "id": 10,
+      "narration": "These simulations reveal that three-body systems rarely stay balanced. They enter violent gravitational resonances, slinging each other around like chaotic pinballs in a cosmic game of Russian roulette.",
+      "visual": "Three colorful celestial paper cutout spheres slingshotting past each other at extreme close range, intense orange gravitational stress heatmaps glowing between their surfaces, chaotic loop trails",
+      "caption_text": "GRAVITATIONAL SLINGSHOT",
+      "motion": "bodies accelerate rapidly through periastron passage, leave glowing neon orange velocity trails"
+    },
+    {
+      "id": 11,
+      "narration": "Eventually, one of the three bodies almost always gets ejected into interstellar darkness, stealing kinetic energy from the remaining pair and leaving behind a stable two-body survivor.",
+      "visual": "One celestial body hurled into the deep obsidian void along a hyperbolic escape trajectory, leaving behind a tightly bound, stable binary pair orbiting quietly under a green STABLE badge",
+      "caption_text": "EJECTION: 1 SURVIVOR",
+      "motion": "ejected body streaks rapidly toward top-right corner, binary pair settles into calm rhythm"
+    },
+    {
+      "id": 12,
+      "narration": "You might think our Solar System is safe because the planets follow smooth, clockwork paths. But our system does not have two bodies. It has eight planets, dozens of moons, and thousands of asteroids.",
+      "visual": "Planetary diagram of our Solar System rendered as elegant concentric paper cutouts, eight planetary orbits highlighted, with subtle dashed gravitational tug lines crisscrossing between all bodies",
+      "caption_text": "8 PLANETS // N-BODIES",
+      "motion": "slow 2D camera drift across the planetary rings, gravitational tug vectors flicker softly"
+    },
+    {
+      "id": 13,
+      "narration": "Because of three-body interactions, our Solar System has a Lyapunov time of just five million years. Beyond that horizon, the exact orbits of the planets become impossible to calculate.",
+      "visual": "A chronological countdown timeline showing modern day at year zero, extending to a sharp wall labeled LYAPUNOV HORIZON: 5 MILLION YEARS, beyond which all planetary tracks blur into static noise",
+      "caption_text": "5 MILLION YEAR LIMIT",
+      "motion": "timeline slider moves forward, crisp orbits dissolve into cloud of probability noise"
+    },
+    {
+      "id": 14,
+      "narration": "And all of our planetary stability hangs on one fragile thread: the planet Mercury. Supercomputer simulations show that Mercury's orbital perihelion slowly precesses in lockstep with Jupiter's gravitational field.",
+      "visual": "Close-up collage of Mercury's eccentric orbit around the Sun, with an invisible gravitational tether line connecting Mercury directly to a cutout of giant Jupiter in the upper panel",
+      "caption_text": "MERCURY-JUPITER LOCK",
+      "motion": "Mercury's orbital ellipse slowly rotates (precesses), tether line to Jupiter pulses gently"
+    },
+    {
+      "id": 15,
+      "narration": "In about one percent of computer simulations over the next three billion years, Jupiter pulls Mercury out of its track, elongating its orbit until it crosses the path of Venus.",
+      "visual": "Mercury's orbital ellipse stretching dramatically into an elongated oval, crossing Venus's orbit line with a flashing orange hazard icon reading 1% PROBABILITY OF CROSSING",
+      "caption_text": "1% CHANCE OF RUPTURE",
+      "motion": "Mercury's ellipse stretches outward year by simulated year, intersects Venus orbit"
+    },
+    {
+      "id": 16,
+      "narration": "Once Mercury breaks rank, the inner Solar System destabilizes. Mercury could plunge into the Sun, crash into Venus, or collide directly into Earth at thirty kilometers per second.",
+      "visual": "Three terrifying simulation branch outcomes depicted as paper panels: Mercury falling into Sun, Mercury colliding with Venus, and Earth in the crosshairs with trajectory impact velocity 30 KM/S",
+      "caption_text": "INNER SYSTEM COLLAPSE",
+      "motion": "camera pans across the three catastrophic branch outcomes, impact reticles pulse in orange"
+    },
+    {
+      "id": 17,
+      "narration": "We grow up believing the universe is a clockwork machine running on eternal, predictable rails. In reality, the clockwork is an illusion born of our fleeting human timescale.",
+      "visual": "An antique brass pocket watch mechanism made of paper gears slowly dissolving into a swarm of chaotic star particles, showing the transition from mechanical certainty to fluid reality",
+      "caption_text": "THE ILLUSION OF CLOCKWORK",
+      "motion": "clockwork gears slow down and dissolve outward, cosmic particles drift freely"
+    },
+    {
+      "id": 18,
+      "narration": "Determinism does not mean destiny. Our Solar System is not a permanent cathedral; it is a chaotic simulation running on borrowed time, dancing one gravitational perturbation away from catastrophe.",
+      "visual": "Epic wide cosmic collage: Earth, Sun, and Moon suspended in deep obsidian space, surrounded by delicate, glowing orbital threads, with small orange mathematical label reading EPSILON = 10^-9",
+      "caption_text": "BORROWED TIME",
+      "motion": "slow, profound 2D pull-out into deep cosmic void, orbital threads hold fragile equilibrium"
+    }
+  ]
+}

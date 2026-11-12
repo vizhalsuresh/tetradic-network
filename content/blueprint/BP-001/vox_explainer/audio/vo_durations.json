@@ -1,0 +1,116 @@
+{
+  "title": "The Deep Ocean Internet Backbone",
+  "total_duration": 229.5,
+  "total_minutes": 3.83,
+  "beat_count": 18,
+  "beats": [
+    {
+      "id": 1,
+      "file": "audio/vo/beat_01.mp3",
+      "duration": 17.42,
+      "caption_text": "99% OF THE INTERNET"
+    },
+    {
+      "id": 2,
+      "file": "audio/vo/beat_02.mp3",
+      "duration": 10.15,
+      "caption_text": null
+    },
+    {
+      "id": 3,
+      "file": "audio/vo/beat_03.mp3",
+      "duration": 12.43,
+      "caption_text": "1.4 MILLION KM"
+    },
+    {
+      "id": 4,
+      "file": "audio/vo/beat_04.mp3",
+      "duration": 12.77,
+      "caption_text": "35X AROUND EARTH"
+    },
+    {
+      "id": 5,
+      "file": "audio/vo/beat_05.mp3",
+      "duration": 13.22,
+      "caption_text": null
+    },
+    {
+      "id": 6,
+      "file": "audio/vo/beat_06.mp3",
+      "duration": 12.7,
+      "caption_text": "8 ARMOR LAYERS"
+    },
+    {
+      "id": 7,
+      "file": "audio/vo/beat_07.mp3",
+      "duration": 12.14,
+      "caption_text": null
+    },
+    {
+      "id": 8,
+      "file": "audio/vo/beat_08.mp3",
+      "duration": 12.7,
+      "caption_text": "3 METERS BURIED"
+    },
+    {
+      "id": 9,
+      "file": "audio/vo/beat_09.mp3",
+      "duration": 10.99,
+      "caption_text": "800 ATMOSPHERES"
+    },
+    {
+      "id": 10,
+      "file": "audio/vo/beat_10.mp3",
+      "duration": 13.51,
+      "caption_text": "REPEATER: 80 KM"
+    },
+    {
+      "id": 11,
+      "file": "audio/vo/beat_11.mp3",
+      "duration": 11.76,
+      "caption_text": "10,000 VOLTS DC"
+    },
+    {
+      "id": 12,
+      "file": "audio/vo/beat_12.mp3",
+      "duration": 12.02,
+      "caption_text": "3 CHOKE POINTS"
+    },
+    {
+      "id": 13,
+      "file": "audio/vo/beat_13.mp3",
+      "duration": 12.86,
+      "caption_text": null
+    },
+    {
+      "id": 14,
+      "file": "audio/vo/beat_14.mp3",
+      "duration": 12.65,
+      "caption_text": "200 CUTS A YEAR"
+    },
+    {
+      "id": 15,
+      "file": "audio/vo/beat_15.mp3",
+      "duration": 14.64,
+      "caption_text": null
+    },
+    {
+      "id": 16,
+      "file": "audio/vo/beat_16.mp3",
+      "duration": 13.1,
+      "caption_text": "ONLY 60 SHIPS"
+    },
+    {
+      "id": 17,
+      "file": "audio/vo/beat_17.mp3",
+      "duration": 11.38,
+      "caption_text": null
+    },
+    {
+      "id": 18,
+      "file": "audio/vo/beat_18.mp3",
+      "duration": 13.06,
+      "caption_text": "THE GLASS BACKBONE"
+    }
+  ]
+}
