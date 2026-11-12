@@ -59,7 +59,7 @@ If you both want to contribute to the same show or collaborate dynamically:
 
 ### Step 1: Clone the Private Repository
 ```bash
-git clone <your-private-github-or-gitlab-repo-url> tetradic-network
+git clone https://github.com/vizhalsuresh/tetradic-network.git tetradic-network
 cd tetradic-network
 ```
 
